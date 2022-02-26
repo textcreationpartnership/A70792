@@ -1,0 +1,755 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Infant baptism of Christ's appointment, or A discovery of infants interest in the covenant with Abraham shewing who are the spiritual seed and who the fleshly seed. Together, with the improvement of covenant interest by parents and children. By S.P. minister of the Gospel.</title>
+            <title>Infant baptism of Christ's appointment.</title>
+            <author>Petto, Samuel, 1624?-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 112 KB of XML-encoded text transcribed from 57 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70792</idno>
+            <idno type="STC">Wing P1898</idno>
+            <idno type="STC">ESTC R218919</idno>
+            <idno type="EEBO-CITATION">99830470</idno>
+            <idno type="PROQUEST">99830470</idno>
+            <idno type="VID">34922</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70792)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34922)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2074:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Infant baptism of Christ's appointment, or A discovery of infants interest in the covenant with Abraham shewing who are the spiritual seed and who the fleshly seed. Together, with the improvement of covenant interest by parents and children. By S.P. minister of the Gospel.</title>
+                  <title>Infant baptism of Christ's appointment.</title>
+                  <author>Petto, Samuel, 1624?-1711.</author>
+               </titleStmt>
+               <extent>[10], 97, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Giles, bookseller in Norwich, near the Market-place,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>S.P. = Samuel Petto.</note>
+                  <note>Includes a postscript and errata slip on G6v and four final advertisement pages.</note>
+                  <note>Pages have print show-through, affecting text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Infant baptism --  Early works to 1800.</term>
+               <term>Theology --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34922:1" rendition="simple:additions"/>
+            <p>Infant Baptiſm OF <hi>CHRIST'S</hi> Appointment, OR A Diſcovery of Infants Intereſt in the Covenant with <hi>Abraham,</hi> ſhewing who are the Spiritual Seed and who the fleſhly Seed.</p>
+            <p>TOGETHER, With the Improvement of Covenant In<g ref="char:EOLunhyphen"/>tereſt by Parents and Children.</p>
+            <p>By <hi>S. P.</hi> Miniſter of the Goſpel.</p>
+            <q>
+               <bibl>Mark. 10. 14.</bibl> Suffer little Chil<g ref="char:EOLhyphen"/>dren to come unto me and forbid them not.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Giles,</hi> Bookſeller in <hi>Norwich,</hi> near the Market<g ref="char:punc">▪</g>place. 1687.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34922:2"/>
+            <pb facs="tcp:34922:2"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <p>
+               <hi>I</hi> Am ſenſible, that many Books have been already written by others on this Subject of Infant-baptiſm, and it was formerly far from my thoughts to make an addition; but the irregu<g ref="char:EOLhyphen"/>larity of one, who left his Goſpel ſta<g ref="char:EOLhyphen"/>tion without previous declaring any ſuch intention to me, (with what en<g ref="char:EOLhyphen"/>ſued) occaſioned my freſh ſearch into the controverſy, and my drawing up the enſuing Sheets, wherein ſome Scri<g ref="char:EOLhyphen"/>ptures are cleared further than ever they were formerly to me. The Im<g ref="char:EOLhyphen"/>portunity
+<pb facs="tcp:34922:3"/>
+of ſome friends of the ſame mind with my ſelf, together with the miſrepreſenting of me by ſome others of the contrary perſwaſion, have pre<g ref="char:EOLhyphen"/>vailed with me to let them be publi<g ref="char:EOLhyphen"/>ſhed.</p>
+            <p>I am the more encouraged ſeeing the Primitive Churches or Elders, did of<g ref="char:EOLhyphen"/>ten aſſert controverted Truths, even when they had a Common Enemy the Pagans, and after the Arians againſt them. If the Lord may bleſs this ſhort Tract, ſo far as any who are wavering may be eſtabliſhed, and thoſe which have been otherwiſe minded may be convinced, I have my deſign. It is the clearing of truth that I aim at, and not the reviving or continuing, much leſs the increaſing of differen<g ref="char:EOLhyphen"/>ces.</p>
+            <p>I think they are moſt guilty hereof, who will hold Communion with no other Churches, but thoſe who are of their own perſwaſion in point of Baptiſm; if I may obtain their Conviction that
+<pb facs="tcp:34922:3"/>
+ſuch rigidneſs is ungrounded, this will then conduce to peace; and I have given ſuch Scripture grounds for my judgment, as I hope will prevail fur<g ref="char:EOLhyphen"/>ther with thoſe which will read with<g ref="char:EOLhyphen"/>out prejudice. I can hold Communion with thoſe that differ from me about Infant Baptiſm, provided they live peaceably otherways, and be of a Go<g ref="char:EOLhyphen"/>ſpel converſation.</p>
+            <p>If any ſhall reply to this with viru<g ref="char:EOLhyphen"/>lency and paſſion: I ſhall ſpread it be<g ref="char:EOLhyphen"/>fore the Lord and ſay, the Lord rebuke thee; but if they do it with the Spirit of meekneſs, and with ſuch Scripture evidence as I be convinced, that the ſubſtance of what I have here written is Errour, I do hereby promiſe, the Lord permitting to retract it, if I may be permitted to Print it: So as if I be ſilent Reader, thou mayeſt know I find no cogent Scripture light for my Conviction.</p>
+            <p>I account Infants Covenant intereſt to be the grand argument for their
+<pb facs="tcp:34922:4"/>
+Baptiſm, and ſo have inſiſted on the proof of it.</p>
+            <p>That evaſion, that Infants of be<g ref="char:EOLhyphen"/>lieving Gentiles are not the Seed of <hi>Abraham,</hi> that will not hold; For, if the Infants of believing Jews be, then undeniably the Infants of believing Gentiles are ſo.</p>
+            <p>And run it up to the Primitive Go<g ref="char:EOLhyphen"/>ſpel times after the death of Chriſt, the Infants of believing Jews were the Seed of <hi>Abraham,</hi> unleſs any can prove that they were cut off by a repeal or otherwiſe, and ſo that they were damnified by their Parents believing.</p>
+            <p>Yea ſome Jews did believe on Chriſt before his Death, and how could their Infant Seed then be cut off! the Co<g ref="char:EOLhyphen"/>venant with <hi>Abraham</hi> was undoubted<g ref="char:EOLhyphen"/>ly then in force after the Parents be<g ref="char:EOLhyphen"/>lieving, and ſo their Infant Seed in it ſtill with their Parents after their believing.</p>
+            <p>Indeed it cannot be proved, that the Covenant with <hi>Abraham,</hi> was ab<g ref="char:EOLhyphen"/>rogated
+<pb facs="tcp:34922:4"/>
+by the Death of Chriſt, though the Law in ſome reſpect was.</p>
+            <p>Nor can it be proved, that the Jews or their Seed were broken off, by a Re<g ref="char:EOLhyphen"/>peal of that Covenant with <hi>Abraham,</hi> or any otherways then by their own de<g ref="char:EOLhyphen"/>generacy and poſitive unbelief, <hi>Rom. 11. 20.</hi> becauſe of unbelief they were broken off, and this I think not at the Death of Chriſt, but ſome time after, <hi>Act. 13. 46.</hi> and thus by degeneracy and rejecting the Covenant (as now ſo) in preceeding Ages from the days of <hi>Abraham,</hi> Parents and Children might be cut off from Covenant inter<g ref="char:EOLhyphen"/>eſt, witneſs <hi>Iſhmael</hi> and <hi>Eſau, &amp;c.</hi> whilſt yet Infants Covenant intereſt ſtill continued where the Parents did not ſo degenerate. And ſeeing the In<g ref="char:EOLhyphen"/>fant Seed of the Jews remained in Co<g ref="char:EOLhyphen"/>venant in Goſpel times, till their Pa<g ref="char:EOLhyphen"/>rents were broken off, and eſpecially the Seed of believing Jews; hence the Infant Seed of believing Gentiles are the Seed of <hi>Abraham;</hi> for there is
+<pb facs="tcp:34922:5"/>
+no difference between Jews and Gen<g ref="char:EOLhyphen"/>tiles in Goſpel times.</p>
+            <p>So that <hi>Abrahams</hi> Covenant being ſtill in force, unleſs any can prove a repeal of it, as to that part which con<g ref="char:EOLhyphen"/>cerneth Infants they ſay nothing con<g ref="char:EOLhyphen"/>vincing, and Infants muſt be in it ſtill.</p>
+            <p>And obſerve, this ſeemeth to be the ſpecial reaſon, why there is no expreſs particular command in the new Teſta<g ref="char:EOLhyphen"/>ment for the Baptizing of Infants, as of Believers; becauſe there was no need of a new grant of what they had a right to ever ſince the days of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> the ſign being entailed to the Co<g ref="char:EOLhyphen"/>venant Intereſt.</p>
+            <p>The work therefore was, to command the Parents to Repent and Believe on the <hi>Meſſiah</hi> already come, as the way to continue their own intereſt in the Covenant, upon which their Infant Seed had their Covenant Intereſt con<g ref="char:EOLhyphen"/>tinued alſo, and conſequently their right to Baptiſm the firſt Sign of it;
+<pb facs="tcp:34922:5"/>
+for Baptiſm is not barely by vertue of a Command, but with relation to the Co<g ref="char:EOLhyphen"/>venant as a ſign thereof. And let it be obſerved, if Circumciſion had ſtill continued as the token of the Covenant and Infants to paſs under it, yet the <hi>Meſſiah</hi> being come, the Preaching muſt have been (Repent and Believe and be Circumciſed) as now it is (Re<g ref="char:EOLhyphen"/>pent and Believe and be Baptized,) yet no Jews would rationally have under<g ref="char:EOLhyphen"/>ſtood that in Goſpel times, their In<g ref="char:EOLhyphen"/>fants had been excluded from Circum<g ref="char:EOLhyphen"/>ciſion, without a Repeal of their An<g ref="char:EOLhyphen"/>tient Covenant priviledge, which we find not with reference to Baptiſm.</p>
+            <p>The two principal Objections of thoſe called Baptiſts are, the one the want of a Divine Command expreſly for Infant Baptiſm, which I have here enerva<g ref="char:EOLhyphen"/>ted; the other is concerning the two Seeds of <hi>Abraham,</hi> his natural or fleſhly Seed, and his Spiritual Seed, of which ſee in the Diſcourſe it ſelf. It is the degenerate, adult natural Seed
+<pb facs="tcp:34922:6"/>
+of <hi>Abraham,</hi> or others claiming In<g ref="char:EOLhyphen"/>tereſt even in ſpecial bleſſings by fleſhly deſcent, that is the Carnal Seed reje<g ref="char:EOLhyphen"/>cted; but that it is the Infant Seed is wholly without proof. Indeed if all the Infant Seed had been excluded, I doubt not but it would have been upon record, as an Objection and Stumbling block in the way of the captious Jews againſt Chriſt, and the diſpenſation of the Go<g ref="char:EOLhyphen"/>ſpel, that the Covenant with <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> was violated as well as the Law of <hi>Moſes.</hi>
+            </p>
+            <p>Weigh all in the ballance of the San<g ref="char:EOLhyphen"/>ctuary without prejudice, and the Lord give one heart and one way, and give thee underſtanding in all things. So prayeth he who is.</p>
+            <closer>
+               <signed>Thine in Goſpel bonds. <hi>S. P.</hi>
+               </signed>
+               <dateline>
+                  <date>March. 29. 1687.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34922:6"/>
+            <head>OF Infant Baptiſm.</head>
+            <p>IT is a matter of great Impor<g ref="char:EOLhyphen"/>tance rightly to determin, who are the <hi>Subjects</hi> and what is the <hi>form of Goſpel Baptiſm,</hi> to prevent error in that adminiſtration, and the la<g ref="char:EOLhyphen"/>mentable Church-dividing Conſe<g ref="char:EOLhyphen"/>quences thereof.</p>
+            <p>It is the <hi>Covenant Intereſt and Ba<g ref="char:EOLhyphen"/>ptiſm</hi> of the <hi>Infant Seed</hi> only of <hi>Viſi<g ref="char:EOLhyphen"/>ble Believers</hi> that I plead for; and there are ſuch vaſt numbers (even Millions) of theſe, that if Men un<g ref="char:EOLhyphen"/>duly exclude and raſe out the names of ſo many out of that great <hi>Charter</hi> of Heaven, they will have
+<pb n="2" facs="tcp:34922:7"/>
+a dreadful account to give thereof to God.</p>
+            <p>Thoſe who deny Infant Baptiſm often call upon us to give expreſs Scripture for it, and ſpeak ſlightly of Conſequences.</p>
+            <p>But let them know that Scripture Conſequences (<hi>i. e.</hi> naturally dedu<g ref="char:EOLhyphen"/>ced) are valid arguments, for Jeſus Chriſt proveth an Article of Faith <hi>viz.</hi> the reſurrection <hi>Mat. 22. v.</hi> 31. 32. from <hi>Ex. 3. v.</hi> 6. where is no ex<g ref="char:EOLhyphen"/>preſs word of it, and ſo the proof is only by conſequence. See others. <hi>Joh. 7. 38. Joh. 5. 46. 47. Luk. 24. 44, 45, 46. Act.</hi> 10. 43. and 28. <hi>v.</hi> 23. it would deſtroy almoſt all preach<g ref="char:EOLhyphen"/>ing to deny Conſequences. Beſides, what expreſs Scripture have they for admitting Women to the Lords Supper? as to 1 <hi>Cor.</hi> 11. 28. if <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> may rarely be extended to the female yet <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> [himſelf] li<g ref="char:EOLhyphen"/>mits it to the male. So what ex<g ref="char:EOLhyphen"/>preſs Scripture have they for Bap<g ref="char:EOLhyphen"/>tizing
+<pb n="3" facs="tcp:34922:7"/>
+again thoſe who were Bapti<g ref="char:EOLhyphen"/>zed as with us in Infancy? I con<g ref="char:EOLhyphen"/>clude, things may be forbidden by good conſequence; but to thoſe who are otherwiſe minded for ever to ſilence this weak Objection, I add, That there is nothing againſt Infant Baptiſm, but by conſe<g ref="char:EOLhyphen"/>quence, and that not good. If the Command to Baptize Profeſſed Be<g ref="char:EOLhyphen"/>lievers did forbid to the Baptizing of Infants (as it doth not) yet it were only by conſequence. I argue thus,</p>
+            <p>There is no expreſs Sctipture a<g ref="char:EOLhyphen"/>gainſt Infant Baptiſm, if there were, the Controverſy were pre<g ref="char:EOLhyphen"/>ſently at an end.</p>
+            <p>Therefore Infants may be Bapti<g ref="char:EOLhyphen"/>zed, for <hi>where there is no Law, there is no Tranſgreſſion,</hi> Rom. 4. 15.</p>
+            <p>Undeniably then, either Scrip<g ref="char:EOLhyphen"/>ture Conſequences muſt be owned, or elſe Infants may lawfully be Bap<g ref="char:EOLhyphen"/>tized, for there is no expreſs
+<pb n="4" facs="tcp:34922:8"/>
+Scripture or Law againſt it.</p>
+            <p>§ 1. <hi>The Proof of Infant Baptiſm.</hi>
+            </p>
+            <p>Poſition. <hi>That Infant Baptiſm is an Appointment of Chriſt.</hi> Or,</p>
+            <p>
+               <hi>That it is the will of Chriſt that ſome Infants ſhould be Baptized.</hi>
+            </p>
+            <p>Argument 1. <hi>Some Infants are Diſcipled ſo as to have the Name of the Father, Son, and Holy Spirit upon them.</hi>
+            </p>
+            <p>
+               <hi>Therefore by the will of Chriſt they are to be Baptized.</hi>
+            </p>
+            <p>For that is the Commiſſion, <hi>Mat. 28. 19. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Diſciple ye all Nations, Baptizing them</hi>—</p>
+            <p>All then who are diſcipled by the Will of Chriſt, are to be Baptized; and they are Diſciples, not only who actually learn, but who are in the School of Chriſt his Church in order to their future Learning: Saul <hi>made havock of the Church,</hi> Act. 8. 3. Which is expreſſed, <hi>Act. 9. 1. by the Diſciples of the Lord.</hi> So then, to be a Church-member, is
+<pb n="5" facs="tcp:34922:8"/>
+to be a Diſciple. Thus <hi>Act.</hi> 15. 10. The Yoke of Circumciſion was laid upon the Diſciples; <hi>Doctrinely</hi> im<g ref="char:EOLhyphen"/>poſed upon the Parents; but <hi>Pra<g ref="char:EOLhyphen"/>ctically</hi> upon the Infant Seed at eight days old; for ſo was the In<g ref="char:EOLhyphen"/>ſtitution, <hi>Gen. 17. v.</hi> 10, 12, 13. And ſo they are Diſciples. See al<g ref="char:EOLhyphen"/>ſo <hi>Act.</hi> 21. 4, 5. where Children ſeem to be numbred among Diſci<g ref="char:EOLhyphen"/>ples.</p>
+            <p>And as to [the Name] of the Trinity, that of being [Holy] is attributed often to Father, Son, and Spirit, <hi>Lev.</hi> 19. 2. and 20. 7. 1 <hi>Pet. 1. 15. Heb. 7. 26. Eph. 1. v.</hi> 13. and 4. 30. 1 <hi>Theſs.</hi> 4. 8. And it is given al<g ref="char:EOLhyphen"/>ſo to the Church and its Members, <hi>Exod. 19. 6. Deut.</hi> 7. 6. and 14. <hi>v.</hi> 2. 21. and 26. 19. and 28. <hi>v. 9. Rom. 11. 16. 1 Pet.</hi> 2. 9.</p>
+            <p>And this very Name of the Lord [Holy] he hath impoſed upon the Children of Believers, 1 <hi>Cor. 7. 14. Elſe were your Children Unclean, but
+<pb n="6" facs="tcp:34922:9"/>
+now are they Holy;</hi> i. e. Holy by a Se<g ref="char:EOLhyphen"/>paration unto God and his Service; which often in Scripture denomina<g ref="char:EOLhyphen"/>teth Perſons, or Things Holy, as the Church—and it cannot be meant of Legitimation; for if both the Parents were Unbelievers, yet the Children might not be Illegiti<g ref="char:EOLhyphen"/>mate; <hi>For Marriage is honourable in all,</hi> Heb. 13. 4. Nor is it meant of being only Sanctified to uſe; for there is a vaſt difference between be<g ref="char:EOLhyphen"/>ing Sanctified to, and being Holy, as Mr. <hi>Cotton</hi> ſaith, Afflictions, Temp<g ref="char:EOLhyphen"/>tations, yea, Sin it ſelf, is Sanctified to Believers: And yet none will ſay that Sin—is Holy.</p>
+            <p>Therefore it muſt be meant of Relative Faederal Holineſs; and ſo that Name of God is upon the Chil<g ref="char:EOLhyphen"/>dren of Believers, and conſequently, they are to be Baptized.</p>
+            <p>Arg. 2. <hi>If ſome Infants be viſibly or externally in the Govenant which God made with</hi> Abraham, <hi>then by
+<pb n="7" facs="tcp:34922:9"/>
+the will of Chriſt they are to be Bap<g ref="char:EOLhyphen"/>tized.</hi>
+            </p>
+            <p>
+               <hi>But ſome Infants are viſibly or ex<g ref="char:EOLhyphen"/>ternally in the Covenant which God made with</hi> Abraham.</p>
+            <p>
+               <hi>Therefore by the Will of Chriſt they are to be Baptized.</hi>
+            </p>
+            <p>The Conſequence [that thoſe who are ſo in <hi>Abraham</hi>'s Covenant are to be Baptized] I prove: For,</p>
+            <p>1. <hi>All the Seed of</hi> Abraham <hi>in their Generations, are expreſsly Com<g ref="char:EOLhyphen"/>manded to keep the Covenant, by ap<g ref="char:EOLhyphen"/>plying the Token of it, which is Bap<g ref="char:EOLhyphen"/>tiſm;</hi> Gen. 17. 9. <hi>Thou ſhalt keep my Covenant therefore, thou and thy Seed after thee in their Generations.</hi>
+            </p>
+            <p>So long then as <hi>Abraham</hi> hath a Seed (which undeniably he hath in Goſpel Times) even in all their Generations here is a ſtanding Com<g ref="char:EOLhyphen"/>mand to keep the Covenant.</p>
+            <p>And how keep it? <hi>v. 10. 11. This is my Covenant</hi>—And mentioning Circumciſion, he ſaith,
+<pb n="8" facs="tcp:34922:10"/>
+[<hi>It ſhall be a Token of the Covenant between me and you.</hi>] So then the keeping it is by applying the <hi>Token</hi> of it. But he varieth the Phraſe, as Mr. <hi>Whiſton</hi> excellently obſerveth, an Intimation that he purpoſed a change in the Token of the Cove<g ref="char:EOLhyphen"/>nant. It is not ſaid, That the keep<g ref="char:EOLhyphen"/>ing of it in all their Generations, ſhould be by Circumciſion as the Token of it.</p>
+            <p>The Covenant in Goſpel Times cannot be kept by Circumciſion, for that is abrogated, and ceaſeth to be a Token of it; and therefore it muſt be kept by Baptiſm, which now is the Sign or Token of it, that being <hi>for the Remiſſion of Sins,</hi> Act. 2. 38, 39. which is a great Bleſſing of the Covenant, <hi>Heb. 10. v.</hi> 16, 17. This then is a full Command to Baptize all in Covenant now, for the keep<g ref="char:EOLhyphen"/>ing it, as it did command of old to Circumciſe them when that was the Token of the Covenant. The
+<pb n="9" facs="tcp:34922:10"/>
+alteration of the Sign is no hin<g ref="char:EOLhyphen"/>drance at all; as the Second Com<g ref="char:EOLhyphen"/>mandment of Old did require Cir<g ref="char:EOLhyphen"/>cumciſion, Sacrifices, and Paſſover, and now theſe are abrogated, it doth equally require the obſerving Goſpel Inſtitutions, as Baptiſm, and the Lord's Supper, and is kept there<g ref="char:EOLhyphen"/>by: And the Fourth Command<g ref="char:EOLhyphen"/>ment required the Obſervation of the Seventh Day as a Sabbath, yet now is kept, by obſerving, the Firſt Day of the Week as a Sabbath. So the Command of keeping the Covenant, was obſerved of old by Circumciſion, but is now by Bap<g ref="char:EOLhyphen"/>tiſm, ſince that is become the To<g ref="char:EOLhyphen"/>ken of it, and cannot be obeyed otherwiſe.</p>
+            <p>2. <hi>Baptiſm is the firſt Sign of the Covenant, and no Scripture Warrant is found to delay the applying of it to Perſons viſibly in the Covenant:</hi> Some call it an Initiatory Sign<g ref="char:punc">▪</g> which is ſo far true, as that ſpeedi<g ref="char:EOLhyphen"/>ly
+<pb n="10" facs="tcp:34922:11"/>
+after coming under the Covenant it is to be ſubmitted to, and is urged early. <hi>Act.</hi> 2. 38. and practiſed. <hi>v. 41. Act. 13. 24. Act.</hi> 22. 16. ſuch then who are <hi>faederatiare</hi> to be <hi>ſignati. Mat.</hi> 28. 19.</p>
+            <p>Yea Baptiſm followeth a being Externally and Viſibly in Covenant, as in <hi>Simon Magus. Act.</hi> 8. 13. Simon <hi>himſelf believed, and when he was Baptized,</hi> yet he was not internally and ſavingly in the Covenant, for he was in the gall of bitterneſs ſtill <hi>v.</hi> 21. 22. 23. wanted faith and re<g ref="char:EOLhyphen"/>pentance, his heart was not right.</p>
+            <p>And let this ever be remembred, that ſome are <hi>internally, inviſibly, and ſavingly in that Covenant,</hi> ſo as to partake of ſpecial grace bleſſings, and priviledges, as Juſtification, A<g ref="char:EOLhyphen"/>doption, Sanctification <hi>&amp;c. Rom. 4. v. 2, 3, 13, 16, 17. Gal. 3. v.</hi> 16, 17, 18, 26, 29. and theſe ſhall never totally and finally fall away, <hi>Jer. 32, 40, 41. Joh. 10. 28. Rom.</hi> 11, 2, 7.</p>
+            <p>
+               <pb n="11" facs="tcp:34922:11"/>Others are <hi>Externally and Viſibly in that Covenant,</hi> and many of theſe are branches in Chriſt, that may be taken away, caſt forth and burnt. <hi>Joh. 15. v.</hi> 2. 6. may be broken off. <hi>Rom. 11. v.</hi> 17. 20. thus the <hi>Jews</hi> for poſitive unbelief were broken off, which thoſe who are internally in it cannot be.</p>
+            <p>And hence though the Children of ſome Godly Parents may degene<g ref="char:EOLhyphen"/>rate and prove wicked, yet this is no more againſt their former viſible Covenant Intereſt and Baptiſm, then the ſame in Profeſſed Believers, who may degenerate alſo as <hi>Simon Ma<g ref="char:EOLhyphen"/>gus</hi> did, who before was duly Bapti<g ref="char:EOLhyphen"/>zed, only upon a Viſible External Intereſt in the Covenant.</p>
+            <p>3. <hi>There is a Connexion between the Covenant and Baptiſm.</hi> Act. 2, 38, 39. whence I argue thus,</p>
+            <p>
+               <hi>Thoſe to whom the Promiſe is made are Commanded to be Baptized. [Be Baptized for the promiſe is to you.</hi>]</p>
+            <p>
+               <pb n="12" facs="tcp:34922:12"/>
+               <hi>But the Promiſe is to Repenters and their Seed.</hi>
+            </p>
+            <p>
+               <hi>Therefore Repenters and their Seed are commanded to be Baptized.</hi>
+            </p>
+            <p>All that have the Promiſe to them are to be Baptized, ſeeing the [for] doth intimate that to be the ground, motive and inducement to the ap<g ref="char:EOLhyphen"/>plying Baptiſm, that the promiſe is to them.</p>
+            <p>And undeniably they are the <hi>Jews,</hi> which he ſpeaketh to <hi>v. 36. Let all the houſe of</hi> Iſrael <hi>know</hi>—them he commandeth to repent and be Baptized. <hi>v.</hi> 38. and addeth [<hi>for the promiſe is to you and your Children</hi>]</p>
+            <p>So then, in Goſpel times there is a promiſe which the <hi>Jews</hi> and their Seed had a joynt Intereſt in, (before their rejection) which was ſufficient to entitle them to Baptiſm. All repenters and believers are noted by [<hi>you</hi>] but here are two, not only [<hi>you</hi>] but alſo [<hi>your Children</hi>] with<g ref="char:EOLhyphen"/>in the promiſe, it is ſtill double as
+<pb n="13" facs="tcp:34922:12"/>
+it was of old, to <hi>Abraham</hi> and his Seed. <hi>Gen.</hi> 17. and it tended greatly to their Comfort, that ſuch a pro<g ref="char:EOLhyphen"/>miſe of antient date was ſtill to them and their Seed, although they had Crucified and Slain Jeſus Chriſt, the Lord of Life; yea, if for the preſent they were but externally in Cove<g ref="char:EOLhyphen"/>nant, yet it might be a great ſupport in their Soul diſtreſs, that yet it was hopeful that they might obtain the ſpecial internal bleſſings of it, as re<g ref="char:EOLhyphen"/>miſſion of ſin—ſeeing an exter<g ref="char:EOLhyphen"/>nal Intereſt is a great advantage that way, telling that their condition was not yet hopeleſs.</p>
+            <p>And this promiſe extending to the <hi>Jews</hi> and their Seed, muſt alſo reach to the Seed of believing <hi>Gen<g ref="char:EOLhyphen"/>tiles,</hi> elſe the <hi>Jews</hi> ſhould have more priviledge then they, whereas there is no difference in Goſpel times.</p>
+            <p>And thoſe words [as many as the Lord our God ſhall call] are not a li<g ref="char:EOLhyphen"/>mitation of the former part of the
+<pb n="14" facs="tcp:34922:13"/>
+verſe, but of the words immediatly foregoing [<hi>and to all that are afar off</hi>] if that be meant of the <hi>Gentiles,</hi> as <hi>Eph.</hi> 2. 13. 17. then it telleth us, that the promiſe is not to all <hi>Gentiles</hi> u<g ref="char:EOLhyphen"/>niverſally and without exception, but only to ſuch of them as ſhall be called or believe, and their Seed, elſe they were leſs priviledged then the <hi>Jews.</hi>
+            </p>
+            <p>Or if as ſome think it referreth to the <hi>Jews,</hi> becauſe the calling of the <hi>Gentiles,</hi> was as yet a great myſtery unto <hi>Peter, Act.</hi> 10. and might have been a ſtumbling block to theſe <hi>Jews,</hi> then theſe [afar off] muſt be the poſterity of the <hi>Jews</hi> to ſucceed in ages to come, who were then a<g ref="char:EOLhyphen"/>far off in time; and if ſo, then by [Children] muſt be underſtood not the poſterity of the <hi>Jews</hi> which was to come after, but their preſent Children even Infants, to them be<g ref="char:EOLhyphen"/>longeth this promiſe.</p>
+            <p>And this Promiſe is not to them
+<pb n="15" facs="tcp:34922:13"/>
+only in the tender or offer of it, for that may extend to all afar off, this is limited to thoſe of them which the Lord ſhall call. This Promiſe is not abſolute, abſolute, it is ſo far conditional as to individuals of the Seed, as all the Children of Believ<g ref="char:EOLhyphen"/>ers may not, and ſuch as reject the Covenant ſhall not be ſaved; but it is abſolute as to the Species, as they are in a Covenant-ſtate with God, as the Seed of others uncalled are not, and are under a greater probability of obtaining ſpiritual bleſſings as re<g ref="char:EOLhyphen"/>miſſion of ſin and eternal Salvation, have higher advantages that way, than the Seed of thoſe who are out of Covenant. It is mentioned as a great priviledge, that the promiſe is to them and their Children, it is then to oppoſe God for any Man to ſay, he doth not make the promiſe any otherwiſe to them and their Children, then he doth to all others in the World, and eſpecially ſeeing
+<pb n="16" facs="tcp:34922:14"/>
+Baptiſm is here entailed to it.</p>
+            <p>I now ſhall prove [<hi>That ſome In<g ref="char:EOLhyphen"/>fants are viſibly or externally in the Covenant, which God made with</hi> A<g ref="char:EOLhyphen"/>braham.] For</p>
+            <p>
+               <hi>Some Infants for many hundreds of years in all Old Teſtament times, were ſo in that Covenant made with</hi> Abra<g ref="char:EOLhyphen"/>ham, <hi>and God hath never repealed it or cut them off.</hi>
+            </p>
+            <p>
+               <hi>Therefore they are in it ſtill.</hi> That they were in it is undeniable, for at the Eighth day they were to be Cir<g ref="char:EOLhyphen"/>cumciſed elſe the Lord ſaith <hi>they have broken his Covenant. Gen. 17. v.</hi> 14. it could not have been broken by neg<g ref="char:EOLhyphen"/>lecting that token of it, if they had not been in it. It is impoſſible to break that Covenant that they are not in.</p>
+            <p>And let any prove, <hi>that God hath repealed it, or cut Infants out of it in Goſpel times, if they can.</hi>
+            </p>
+            <p>To evade this they tell us, <hi>that the Infants of believing Gentiles are not the Seed of</hi> Abraham.</p>
+            <p>
+               <pb n="17" facs="tcp:34922:14"/>I ſhall prove,</p>
+            <p>Poſit. <hi>That the Infant Seed even of believing Gentiles, are viſibly and externally in the Covenant which God made with</hi> Abraham. For</p>
+            <p>1. <hi>The Infant Seed of believing Gentiles in the days of the Old Teſta<g ref="char:EOLhyphen"/>ment, were ſo in that Covenant with</hi> Abraham, <hi>and therefore they are in it ſtill, unleſs God hath repealed it.</hi>
+            </p>
+            <p>The Scripture witneſſeth that the <hi>Gentiles</hi> have greater priviledge in Goſpel times, then they had before <hi>Iſa. 42. 6. Acts 10. 45. Rom. 11. 11, 12. Gal.</hi> 3. 14. and who dare ſay that it is diminiſhed? let them prove it.</p>
+            <p>Its clear, that not only the natu<g ref="char:EOLhyphen"/>ral fleſhly Seed of <hi>Abraham,</hi> but thoſe born in his houſe, and bought with his money (which were <hi>Gentiles</hi>) were to be circumciſed, even Infants at Eight days old, <hi>not of his Seed, Gen. 17. v.</hi> 12, 13, 14. and this is an everlaſting Covenant, and if they were not circumciſed, the Covenant
+<pb n="18" facs="tcp:34922:15"/>
+with <hi>Abraham</hi> was broken, <hi>v.</hi> 14. and therefore thoſe Sons of ſtrangers <hi>Gentiles,</hi> were within the Covenant made with <hi>Abraham,</hi> how elſe could they be under circumciſion, the to<g ref="char:EOLhyphen"/>ken of it and ſo, as it was violated if it were neglected? Yet theſe <hi>Gentiles</hi> had no right to the Land of <hi>Canaan,</hi> which argueth, that <hi>Abrahams</hi> Co<g ref="char:EOLhyphen"/>venant was not meerly for the Land of <hi>Canaan,</hi> or meerly typical as ſome would have it, nor only for <hi>Abrahams</hi> fleſhly Seed, but extended to ſome <hi>Gentiles;</hi> Indeed the Church was then Domeſtical in <hi>Abrahams</hi> family, he would have none there but ſuch as owned the true Religion, ſuch only were to be in his houſe and bought with his money, as were then Church members, for he com<g ref="char:EOLhyphen"/>manded not only his Children but his Houſhold after him, <hi>Gen. 18. v. 19. and they ſhall keep the way of the Lord.</hi>
+            </p>
+            <p>And afterward ſuch of the Stran<g ref="char:EOLhyphen"/>gers <hi>Gentiles,</hi> who became Proſelites
+<pb n="19" facs="tcp:34922:15"/>
+and owned the Jewiſh religion were to be circumciſed, <hi>Ex. 12. v. 44, 48. 49. when a ſtranger ſhall ſojourn with thee, and will keep the paſſover to the Lord, let all his males be circumciſed—one Law ſhall be to him that is home<g ref="char:EOLhyphen"/>born and unto the ſtranger.</hi> So then, upon a profeſſion of faith or true re<g ref="char:EOLhyphen"/>ligion, ſtrangers <hi>Gentiles</hi> were in the Covenant with <hi>Abraham</hi> in that day and came under the token of it, Cir<g ref="char:EOLhyphen"/>cumciſion and their Infant ſeed, as well as upon a profeſſion of the faith of the Goſpel, any are owned in Co<g ref="char:EOLhyphen"/>venant now, &amp; their Infant ſeed muſt be in it with them, unleſs any can ſhew a repeal, or that they are leſs priviledged then they were. And me<g ref="char:EOLhyphen"/>thinks we have the contrary. <hi>Act.</hi> 2. 39. the promiſe is [<hi>to you &amp; your Chil<g ref="char:EOLhyphen"/>dren] i. e.</hi> to the <hi>Jews, [&amp; to as many as the Lord our God ſhall call] i. e.</hi> of the <hi>Gentiles</hi> anſwerable to the Proſelites of old, ſo <hi>Iſa. 56. v.</hi> 5, 6.</p>
+            <p>2. <hi>The Bleſſings of</hi> Abraham <hi>in
+<pb n="20" facs="tcp:34922:16"/>
+Goſpel Times are come upon the</hi> Gen<g ref="char:EOLhyphen"/>tiles <hi>by Faith,</hi> Gal. 3. 14.</p>
+            <p>
+               <hi>Therefore the Infant Seed of the</hi> Gentiles <hi>are, in Goſpel Times, in the Covenant which God made with</hi> Abra<g ref="char:EOLhyphen"/>ham.</p>
+            <p>
+               <hi>For</hi> Abraham <hi>had no other to com<g ref="char:EOLhyphen"/>municate but Covenant Bleſſings,</hi> and not the Land of <hi>Canaan,</hi> for that is not given to the <hi>Gentiles;</hi> and therefore the Bleſſings are, <hi>Gen. 17. 7, 8.—I will—be a God to thee, and to thy Seed after thee in their Ge<g ref="char:EOLhyphen"/>nerations.</hi> And this for many Ge<g ref="char:EOLhyphen"/>nerations did extend to Parents and their Infant Seed, <hi>v.</hi> 9, 10, 11.—So as they paſſed under Token of the Covenant, and were intended thereby all the time of the Old Teſtament.</p>
+            <p>He ſpeaketh indefinitely and in general of the <hi>Bleſſings of Abraham,</hi> not a parcel of them, but in the La<g ref="char:EOLhyphen"/>titude, and as amply as of Old: And therefore by Faith God is viſibly a
+<pb n="21" facs="tcp:34922:16"/>
+God to the <hi>Gentiles,</hi> and to their <hi>In<g ref="char:EOLhyphen"/>fant Seed;</hi> unleſs any can prove that God hath repealed that part of the Covenant which concerns the In<g ref="char:EOLhyphen"/>fant Seed in Goſpel Times.</p>
+            <p>3. <hi>The Infant Seed of the</hi> Jews <hi>were in the Covenant made with</hi> Abraham <hi>in Goſpel Times, after the Death of Chriſt, after all Legal Obſer<g ref="char:EOLhyphen"/>vations were aboliſhed.</hi>
+            </p>
+            <p>
+               <hi>Therefore the Infant Seed of Be<g ref="char:EOLhyphen"/>lieving</hi> Gentiles <hi>are in the Covenant made with</hi> Abraham <hi>in Goſpel Times.</hi>
+            </p>
+            <p>For there is no difference be<g ref="char:EOLhyphen"/>tween <hi>Jews</hi> and <hi>Gentiles</hi> in Goſpel Times. <hi>Rom. 10. 12. For there is no difference between the</hi> Jew <hi>and the</hi> Greek (<hi>i. e.</hi> the Gentile) <hi>for the ſame Lord over all, is Rich unto all that call upon him.</hi> So <hi>Rom. 3. 22. Act. 15. 9. Putting no difference,</hi> Gal. 3. 8. The <hi>Jews</hi> and <hi>Gentiles</hi> then are equal in reſpect of Goſpel Privi<g ref="char:EOLhyphen"/>ledge; yea, there is no difference in reſpect of External Priviledge and
+<pb n="22" facs="tcp:34922:17"/>
+Covenant Intreſt, for the Partition Wall is broken down that was be<g ref="char:EOLhyphen"/>tween us, and <hi>both made one,</hi> Eph. 2. 14. And the ſame <hi>Olive Tree</hi> which the <hi>Jews</hi> are broken off from, that the <hi>Gentiles</hi> are grafted into, <hi>Rom. 11. v.</hi> 17, 19, 23, 24. So that the <hi>Jews</hi> are not Priviledges above the <hi>Gentiles.</hi>
+            </p>
+            <p>Now that the Infant ſeed of the <hi>Jews</hi> were in the Covenant made with <hi>Abraham</hi> in Goſpel Times, I prove.</p>
+            <p>1. From <hi>Act. 3. 25. Ye are the Children of the Prophets, and of the Covenants which God made with our Fathers, ſaying unto</hi> Abraham, <hi>and in thy ſeed ſhall all the Kindreds of the Earth be bleſſed.</hi> This was after the Death and Reſurrection of Jeſus Chriſt, after the abrogation of all Legal Sacrifices and Ceremonial Obſervations; yet ſtill theſe <hi>Jews</hi> were within the Covenant made with <hi>Abraham,</hi> Children of it; yea,
+<pb n="23" facs="tcp:34922:17"/>
+before their repentance, for he ſaith, <hi>v. 19. repent therefore &amp;c.</hi> and their being ſtill in Covenant is uſed as an argument to it, they were not yet caſt out of that Covenant, and that included not only the Parents but the Infant ſeed, as I have proved al<g ref="char:EOLhyphen"/>ready, ſo <hi>Act.</hi> 2. 38, 39.</p>
+            <p>2. <hi>The</hi> Jews <hi>and their Infant ſeed were in the Covenant made with</hi> A<g ref="char:EOLhyphen"/>braham, <hi>the day before the Goſpel came to them, therefore they were in it in Goſpel times after,</hi> unleſs God repeal<g ref="char:EOLhyphen"/>ed it or caſt them out, which let any prove who can.</p>
+            <p>I run it up to the Primitive times, to determine this queſtion thus. In the Apoſtles days immediatly before their Preaching the <hi>Jews</hi> and their Infant Seed were unqueſtionably in the Covenant made with <hi>Abraham,</hi> and under the token of it Circum<g ref="char:EOLhyphen"/>ciſion; therefore the Infant ſeed were in that Covenant after; or elſe un<g ref="char:EOLhyphen"/>deniably the coming of Chriſt, and
+<pb n="24" facs="tcp:34922:18"/>
+the <hi>Jews</hi> believing on him and be<g ref="char:EOLhyphen"/>ing Baptized, was exceedingly to their damage, injury, and diſadvan<g ref="char:EOLhyphen"/>tage. For this is to ſay, that the day or moment before a <hi>Jew</hi> did believe and was Baptized, his Infant ſeed were in Covenant with God, the day or moment after the Infant ſeed was out of that Covenant. Dare any ſay that to be out of Covenant with God, or to be caſt out is no damage, no diſadvantage? is it not mentioned as a myſtery, to be ſtran<g ref="char:EOLhyphen"/>gers to the Covenants of promiſe, <hi>Epheſ.</hi> 2. 12? it is the miſery of the <hi>Jews,</hi> to be broken off from being externally in Covenant, and a mer<g ref="char:EOLhyphen"/>cy to the <hi>Gentiles</hi> to be graffed into the Olive, <hi>Rom 11. v.</hi> 17, 19, 22, 24. as promoting a partaking of the fatneſs of the Olive.</p>
+            <p>If it was a priviledge to be in that Covenant, then it muſt needs be a loſs and damage to be out of it. When the queſtion was, <hi>Rom.</hi> 3. 1.
+<pb n="25" facs="tcp:34922:18"/>
+               <hi>What advantage then hath the</hi> Jew? <hi>or what profit is there of Circumciſion?</hi> God by the Apoſtle anſwereth, <hi>v. 2. much every way</hi>—Is it not then great boldneſs for any Man to con<g ref="char:EOLhyphen"/>tradict God, and ſay, it is a mercy ra<g ref="char:EOLhyphen"/>ther than a miſery to be broken off from it? If any abuſe the Covenant made with <hi>Abraham,</hi> and Circum<g ref="char:EOLhyphen"/>ciſion to the denying that Chriſt is come, and to the ſeeking Juſtifica<g ref="char:EOLhyphen"/>tion by their own works or righte<g ref="char:EOLhyphen"/>ouſneſs, on ſuch a falſe legal ground as Chriſt profiteth nothing, and ſo, as they oblige themſelves or are bound to keep the whole Law, and hinder their being juſtified; what is all this to the proving that it is no damage or diſadvantage for any to be caſt out of the Covenant with <hi>A<g ref="char:EOLhyphen"/>braham,</hi> even as to external Intereſt in it?</p>
+            <p>If after the <hi>Jews</hi> believing and being Baptized<g ref="char:punc">▪</g> their Infant ſeed re<g ref="char:EOLhyphen"/>mained in that Covenant, then con<g ref="char:EOLhyphen"/>ſequently
+<pb n="26" facs="tcp:34922:19"/>
+the Infant ſeed of believ<g ref="char:EOLhyphen"/>ing <hi>Gentiles</hi> are in it alſo, for now there is no difference.</p>
+            <p>4. <hi>The Seed of</hi> Abraham <hi>are the ſame for ſpecies or kind in all genera<g ref="char:EOLhyphen"/>tions, and therefore the Infant ſeed of believing</hi> Gentiles <hi>are in the Covenant made with</hi> Abraham. Its true there is a numerical difference, <hi>Abraham</hi> hath a greater number than he had for his ſeed in the Nations of the <hi>Gentiles, Mat. 28. 19. Galat.</hi> 3. 14. and in Goſpel times there are great alterations in the outward ſtate and condition of the Church, and in the outward adminiſtration of the Co<g ref="char:EOLhyphen"/>venant, but as the Covenant it ſelf, ſo the ſeed in it are for ſubſtance the ſame in all ages of it.</p>
+            <p>The Seed internally in that Co<g ref="char:EOLhyphen"/>venant, ſo as to obtain juſtification and Salvation, they were and are the ſame. He ſaith <hi>to</hi> Abraham <hi>and his Seed were the promiſes made,</hi> even one ſeed 430 years before the Law,
+<pb n="27" facs="tcp:34922:19"/>
+and ſo the Covenant cannot be diſ<g ref="char:EOLhyphen"/>anulled. <hi>Gal. 3. v.</hi> 15, 16, 17. the ſtreſs of the Apoſtles argument is laid upon the ſameneſs of the ſeed, admit one of another kind and his proof would fail. Alſo as to external Intereſt in the Covenant the ſeed is for kind the ſame. It is true, <hi>Abraham</hi> was ſo far priviledged as to have a promiſe, that of his natural ſeed concerning the fleſh, Chriſt ſhould come. <hi>Rom.</hi> 9. 5. yet after <hi>Gen.</hi> 17. 7. when per<g ref="char:EOLhyphen"/>ſons rejected the Covenant, though they were of the fleſhly ſeed of <hi>A<g ref="char:EOLhyphen"/>braham,</hi> yet they were caſt out, and alſo ſome ſtrangers <hi>Gentiles</hi> becom<g ref="char:EOLhyphen"/>ing Proſelites, and owning the Co<g ref="char:EOLhyphen"/>venant with <hi>Abraham,</hi> though not of his fleſhly ſeed, yet were admitted to the external priviledges of his Co<g ref="char:EOLhyphen"/>venant. <hi>v. 12, 13. Ex.</hi> 12, 48, 49. and their Infant ſeed came under the to<g ref="char:EOLhyphen"/>ken of it, and ſo were Covenanters.</p>
+            <p>If any raſe out the Subjects of any Covenant (without their forfeiting
+<pb n="28" facs="tcp:34922:20"/>
+their priviledge) it is preſently null and void.</p>
+            <p>If the Infant ſeed were raſed out of the Covenant with <hi>Abraham,</hi> who undoubtedly for many hundreds of years were Subjects of it, then the Covenant with <hi>Abraham</hi> were diſa<g ref="char:EOLhyphen"/>nulled, which the Apoſtle ſaith it cannot be, <hi>Gal. 3. 17. but cometh upon the Gentiles. v.</hi> 14. ſo as they injoy what the <hi>Jews</hi> were broken off from <hi>Rom. 12. v.</hi> 17, 19. and ſeeing the pro<g ref="char:EOLhyphen"/>miſe of being a God to <hi>Abraham</hi> and his Seed, by Divine Warrant inten<g ref="char:EOLhyphen"/>ded the Infant Seed with the Pa<g ref="char:EOLhyphen"/>rents, in all the time from <hi>Abraham</hi> to the coming of Chriſt, hence that muſt be the meaning of it ſtill, if Je<g ref="char:EOLhyphen"/>ſus Chriſt hath not repealed it, and conſequently the <hi>Gentiles</hi> being now in that Covenant, the Infant ſeed of the believing <hi>Gentiles,</hi> muſt be viſi<g ref="char:EOLhyphen"/>bly and externally in the Covenant, which God made with <hi>Abraham.</hi>
+            </p>
+            <p>I omit other Arguments inſiſted
+<pb n="29" facs="tcp:34922:20"/>
+upon by others, leaſt I ſhould <hi>actum agere.</hi> As to the antiquity of the practice of Infant Baptiſm, beſides what <hi>Juſtin Martyr</hi> and <hi>Irendus</hi> ſay, <hi>Cyprian</hi> who flouriſhed about <hi>Ann.</hi> 250. or 255. in his Epiſtle to <hi>Fidus,</hi> who queſtioned whether Infants might be Baptized before the <hi>8th.</hi> day; <hi>Cyprian</hi> with Sixty ſix Biſhops in a Council unanimouſly declared to <hi>Fidus,</hi> that they might be Bapti<g ref="char:EOLhyphen"/>zed before the Eighth day; which very queſtion preſuppoſeth, that the Baptizing of Infants was then a thing granted, and unqueſtionable only the particular day doubted of by ſome. Neither may any conclude <hi>Cyprians</hi> teſtimony to be ſpurious ſeeing he is cited and approved not only by <hi>Auguſt.</hi> but by <hi>Hierom. Contr. Pelag. lib.</hi> 3. and Chriſt ſaith, out of the Law, <hi>Joh.</hi> 8. 17. the teſtimony of two Men is true, <hi>i. e.</hi> is to be receiv<g ref="char:EOLhyphen"/>ed as true.</p>
+            <p>Neither doth the unſoundneſs of
+<pb n="30" facs="tcp:34922:21"/>
+               <hi>Cyprians</hi> judgment about Baptiſm o<g ref="char:EOLhyphen"/>therways invalidate this; for I do not alledge him to make his opinion an Argument for Infant Baptiſm, but only to prove matter of fact, that it was then a common practice in the Church, when they might as eaſily know what was practiſed in the Apoſtles days, as we may know what was a Cuſtom a 100 or a 150 years ago. And ſeeing the doubt of <hi>Fidus</hi> was grounded on the antient Law of Circumciſion on the Eighth day; hence the Antients then made the Covenant with <hi>Abraham,</hi> an Ar<g ref="char:EOLhyphen"/>gument for Infant Baptiſm, and alſo thought Baptiſm came in the room and place of Circumciſion. It can<g ref="char:EOLhyphen"/>not be denyed that <hi>Origen Auguſtin, Theodoret</hi> and others were for Infant Baptiſm.</p>
+            <p>§. 2. <hi>Objections againſt Infants Co<g ref="char:EOLhyphen"/>venant Intereſt and Baptiſm anſwered.</hi>
+            </p>
+            <p>That the Covenant which God made with <hi>Abraham</hi> was of grace,
+<pb n="31" facs="tcp:34922:21"/>
+and in the Subſtance of it continuing in Goſpel times is evident; for the Apoſtle eſtabliſheth Juſtification e<g ref="char:EOLhyphen"/>ven of the <hi>Gentiles,</hi> the <hi>Romans</hi> by faith in a way of grace, by the exam<g ref="char:EOLhyphen"/>ple of <hi>Abraham, Rom. 4. 1, 2, 3, 4, 11, 12, 16, 17. and by his being the Father of many Nations;</hi> now if the Cove<g ref="char:EOLhyphen"/>nant with <hi>Abraham</hi> had been expi<g ref="char:EOLhyphen"/>red, his arguments had been eaſily evaded; by ſaying, that <hi>Abraham</hi> was juſtified in one way, we in ano<g ref="char:EOLhyphen"/>ther, and that <hi>Abrahams</hi> Covenant was at an end; its true ſome appen<g ref="char:EOLhyphen"/>dixes relating to its adminiſtration as Circumciſion—are aboliſhed, but the Apoſtle from the date of it 430 years before the Law, concludeth peremptorily, that it cannot be diſa<g ref="char:EOLhyphen"/>nulled, <hi>Gal.</hi> 3, 16, 17. and carefully obſerve that when the Scripture ſpeaketh of <hi>an old Covenant,</hi> which is diſanulled, it always is <hi>the Law at mount Sinai.</hi> Jer. 31. <hi>v.</hi> 32. Heb. 8. <hi>v. 9. it never ſaith, that the Covenant made
+<pb n="32" facs="tcp:34922:22"/>
+with</hi> Abraham <hi>is aboliſhed,</hi> but the contrary; declaring that the Law coming 430 years after could not diſanull it. Alſo in Goſpel times, they are ſaid to be <hi>Children of the Cove<g ref="char:EOLhyphen"/>nant.</hi> Act, 3. 25. And hence all thoſe notions, that the Covenant made with <hi>Abraham,</hi> was a Covenant of works, a legal temporal one, or mixt his natural ſeed, having but tempo<g ref="char:EOLhyphen"/>ral promiſes by it in the land of <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> or a typical Covenant, I ſay theſe, as not true, vaniſh and come to nothing. And it is very conſiderable that in that Covenant with <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> the Lord promiſeth <hi>to be a God to him and his Seed after him,</hi> Gen. 17. 7. and then a Second time, with that temporal promiſe of the Land of <hi>Ca<g ref="char:EOLhyphen"/>naan</hi> to his Seed, he twiſteth this, <hi>v. 8. and I will be their God.</hi> So that vi<g ref="char:EOLhyphen"/>ſibly he is a God to the ſame Seed, which he promiſeth the Land of <hi>Ca<g ref="char:EOLhyphen"/>naan</hi> too; and for him to be a God to any, is far greater than any tem<g ref="char:EOLhyphen"/>poral good whatſoever.</p>
+            <p>
+               <pb n="33" facs="tcp:34922:22"/>I ſhall now conſider what is obje<g ref="char:EOLhyphen"/>cted, to prove a repeal of the Infant ſeeds Intereſt in the Covenant with <hi>Abraham,</hi> and alſo againſt their Ba<g ref="char:EOLhyphen"/>ptiſm.</p>
+            <p>Ob. 1. Mat. 3. 9. <hi>Think not to ſay within your ſelves, we have</hi> Abraham <hi>to our Father.</hi> Joh. 8. 33. <hi>we be</hi> Abra<g ref="char:EOLhyphen"/>hams <hi>Seed.</hi>
+            </p>
+            <p>
+               <hi>None be the Children of</hi> Abraham, <hi>but thoſe that do the works of</hi> Abra<g ref="char:EOLhyphen"/>ham. <hi>v. 39. if ye were</hi> Abrahams <hi>Children, ye would do the works of</hi> A<g ref="char:EOLhyphen"/>braham, <hi>and ſo Infants are not the Seed of</hi> Abraham.</p>
+            <p>A. 1. <hi>Theſe are ſevere reproofs to a degenerate adult ſeed, who truſted in their priviledge in having</hi> Abraham <hi>to their Father; but ſpeak nothing of cutting off all Infants from a Govenant Intereſt which they formerly had.</hi> All this might be ſaid to ſuch as were wicked and reſted in birth priviled<g ref="char:EOLhyphen"/>ges, in any times of the Old Teſta<g ref="char:EOLhyphen"/>ment, when yet Infants were un<g ref="char:EOLhyphen"/>doubtedly
+<pb n="34" facs="tcp:34922:23"/>
+in the Covenant, both be<g ref="char:EOLhyphen"/>fore and after; and ſo it is nothing to the purpoſe. Jer. 7. 4. <hi>Truſt ye not in lying words ſaying, the Temple of the Lord are theſe.</hi> Yet all this may be ſaid to ſuch perſons in Goſpel times, of whatever perſwaſion, Ba<g ref="char:EOLhyphen"/>ptiſts, Congregational Men, or any other, that own Infants in Cove<g ref="char:EOLhyphen"/>nant; think not to ſay you are Church members or Baptized, whilſt you do not the works of <hi>Abraham,</hi> and yet we may own Infants Cove<g ref="char:EOLhyphen"/>nant intereſt, where the Parents are Believers.</p>
+            <p>2. <hi>It is certain, that when that was ſaid,</hi> Mat. 3. 9. <hi>and</hi> Joh. 8. 39. <hi>the Co<g ref="char:EOLhyphen"/>venant Intereſt of the Infand ſeed was not repealed, nor they cut off from it;</hi> For this was ſome time before the Death of Chriſt; till which there was no abrogation or diſanulling of any legal obſervations, much leſs of priviledge by <hi>Abraham, Eph. 2. v. 14, 15, 16. Col.</hi> 2. 14. the <hi>Jews</hi> were not
+<pb n="35" facs="tcp:34922:23"/>
+broken off till afterwards; and ſo Infants yet were of the ſeed of <hi>Abraham.</hi>
+            </p>
+            <p>Ob. 2. <hi>None but thoſe that are Chriſt's viſibly, and that are of the Faith, are</hi> Abraham's <hi>ſeed,</hi> Gal. 3. v. 16, 26, 29. <hi>Infants then are not the ſeed of</hi> Abraham.</p>
+            <p>
+               <hi>An.</hi> 1. Here is not a ſyllable for a repeal of any priviledge, which In<g ref="char:EOLhyphen"/>fants of old undoubtedly had by the Covenant with <hi>Abraham,</hi> or as his ſeed: here is nothing for cutting off any that were of the ſeed, as Infants once were, <hi>Gen. 17. Deut. 29. v.</hi> 10. to 14. rather he aſſerteth the ſame<g ref="char:EOLhyphen"/>neſs of the Covenant in reſpect of its ſeed, and that it could not be diſ<g ref="char:EOLhyphen"/>anulled, ſee <hi>Gal.</hi> 3. 16, 17. and as God claimed <hi>Iſrael</hi> as his, <hi>Exod. 4. 22. Lev.</hi> 20. 26. So if Infants be ſtill in Covenant, why may they not vi<g ref="char:EOLhyphen"/>ſibly be Chriſt's?</p>
+            <p>2. <hi>The Apoſtle here ſpeaketh of a ſeed of</hi> Abraham <hi>as to Juſtification
+<pb n="36" facs="tcp:34922:24"/>
+and Life, and it is they which are of Faith,</hi> v. 8, 9, 10. And this not in oppoſition to an Infant ſeed, but to an adult ſeed, which ſought Juſtifi<g ref="char:EOLhyphen"/>cation by works of the Law, as thoſe verſes witneſs, and <hi>v.</hi> 24, 26, 29. And thus it was in all Ages ſince <hi>Abraham,</hi> when Infants were cer<g ref="char:EOLhyphen"/>tainly in Covenant; yet then the ſeed of <hi>Abraham,</hi> as to Juſtification, were they of the Faith, and not of Works; and only real Believers are this ſeed. What is this againſt In<g ref="char:EOLhyphen"/>fants being a ſeed as to Ordinances, as well as unſound Profeſſors? This is confirmed to be the meaning in the next Chapter, <hi>Gal. 4. v.</hi> 24. to the end, where they that were born <hi>from Mount</hi> Sinai, from the Law and Works are ſaid to be <hi>born after the Fleſh,</hi> they are in the Apoſtles ſence the <hi>fleſhly ſeed,</hi> which with <hi>Iſhmael,</hi> are to be caſt out; and they by Pro<g ref="char:EOLhyphen"/>miſe are thoſe <hi>of the Faith.</hi>
+            </p>
+            <p>What is all this againſt Infants
+<pb n="37" facs="tcp:34922:24"/>
+being of <hi>Abraham</hi>'s ſeed, as of old; and the leſs, becauſe they are of the Faith, as their Covenant Intereſt fol<g ref="char:EOLhyphen"/>loweth Faith, <hi>viz.</hi> of the Parent to whom the Promiſe is given for the ſeed, as that Promiſe was directed to <hi>Abraham,</hi> Gen. 17. 7. for him to act Faith upon the Lord in it, for his ſeed as well as for himſelf; and other Believers are to do the like.</p>
+            <p>Hence ſee the true meaning of <hi>Gal. 3. 16. To</hi> Abraham <hi>and his ſeed were the Promiſes made: he ſaith not unto ſeeds, as of many, but as of one, and to thy ſeed, which is Chriſt:</hi> i. e. Always <hi>Abraham</hi> had but one ſeed, Chriſt, and thoſe that are Chriſt's, and are of the Faith as to Juſtificati<g ref="char:EOLhyphen"/>on; he never had two ſeeds for that end; in the times of the Old Teſta<g ref="char:EOLhyphen"/>ment there was but one ſeed, not two ſeeds, one by the Law, and ano<g ref="char:EOLhyphen"/>ther by Promiſe, but only one in Chriſt by Promiſe: and that this is the intendment, is evident, ſeeing
+<pb n="38" facs="tcp:34922:25"/>
+he addeth, <hi>v. 18. For if the Inheri<g ref="char:EOLhyphen"/>tance be of the Law, it is no more of Promiſe, but God gave it to</hi> Abraham <hi>by Promiſe.</hi> So that the [one ſeed] excludeth only a pretended ſeed, ſeeking Juſtification by the works of the Law; ſuch God never owned for the ſeed.</p>
+            <p>And ſo it is not in the leaſt men<g ref="char:EOLhyphen"/>tioned to exclude Infants, as a fleſhly ſeed, from an eccleſiaſtical ſeed, nor to repeal any priviledge or limit to cut them off from what they had before the coming of Chriſt, this is not in the leaſt the meaning; for all the time wherein Infants enjoyed ſuch priviledges, yet there was but one ſeed in the Apoſtles ſence: and which further cleareth it, obſerve this, <hi>Gal.</hi> 3. 16, 17. intendeth that Promiſe to <hi>Abraham,</hi> which was 430 years before the Law, which can be only that, <hi>Gen.</hi> 12. 3. as any may find by computing the time, this was when <hi>Abraham</hi> was ſeven<g ref="char:EOLhyphen"/>ty
+<pb n="39" facs="tcp:34922:25"/>
+five years old, <hi>v.</hi> 4. and ſo they greatly miſtake who would have it expounded, <hi>Gen.</hi> 17. 7, 8. where In<g ref="char:EOLhyphen"/>fants Covenant Intereſt is aſſerted, it is no repeal, no reſtriction, or li<g ref="char:EOLhyphen"/>mitation thereof, no cutting them off from any priviledges granted or confirmed to them there; for that was not four hundred and thirty years before the Law; but when <hi>Abraham</hi> was ninety and nine years old. <hi>v.</hi> 1. which was twenty four years leſs.</p>
+            <p>4. <hi>Some Infants are viſibly Chriſt's, and ſo are</hi> Abraham'<hi>s ſeed:</hi> as <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> had a natural <hi>fleſhly ſeed,</hi> and a <hi>ſpiritual ſeed,</hi> conſiſting only of real Believers, which are juſtified, and ſhall certainly be ſaved, <hi>Gal. 3. 8, 9, 11. Mark</hi> 16. 16. So alſo <hi>Abraham</hi> had, and hath an eccleſiaſtical ſeed, he was, and is a Father of the viſible Church, and all in it are his ſeed in this ſence, where are many fooliſh Virgins, <hi>Mat.</hi> 25. 1, 2. unſound Pro<g ref="char:EOLhyphen"/>feſſors
+<pb n="40" facs="tcp:34922:26"/>
+of Faith, which yet are duely baptized, as <hi>Simon Magus</hi> was, <hi>Act.</hi> 8. 13. Such as may be in Chriſt, and be taken away <hi>and caſt forth, Joh.</hi> 15. 2. 6. and be broken off, <hi>Rom.</hi> 11. 20. which none of his ſpiritual ſeed of real believers can be. Either then ſuch Hypocrites are the ſeed of <hi>A<g ref="char:EOLhyphen"/>braham</hi> or not. If they be, then he hath a ſeed which are not his Spiri<g ref="char:EOLhyphen"/>tual ſeed; If they be not, then we may Baptize ſome who are not the ſeed of <hi>Abraham,</hi> and then why not Infants? Neither need we call this a third ſeed of <hi>Abraham</hi> any more than of old, and eſpecially, ſeeing that Church conſiſteth much of his Spi<g ref="char:EOLhyphen"/>ritual ſeed, as ſharers in higheſt pri<g ref="char:EOLhyphen"/>viledges in ſpecial and eternal bleſ<g ref="char:EOLhyphen"/>ſings, though it extendeth to others as ſharers in inferiour bleſſings; both are his ſeed as <hi>Iſhmael</hi> and <hi>Iſaac</hi> were, though one had higher bleſſings then the other, <hi>Gen.</hi> 17. 20. 21.</p>
+            <p>And undeniably many hundreds
+<pb n="41" facs="tcp:34922:26"/>
+of years even from <hi>Abraham</hi> till the coming of Chriſt, an Infant ſeed of <hi>Jews</hi> and Proſelites were of <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> Church-ſeed, and muſt be ſo ſtill unleſs any can ſhew a repeal; and this will hardly be found, ſeeing Jeſus Chriſt hath declared, that of ſuch is the Kingdom of Heaven, <hi>Mat. 19. 14. Mark 10. 13, 14. Luk.</hi> 18. 15. And if Infants be of the Church, then are they Chriſts, for that is his, <hi>Mat. 16. 18. Rom. 16. 16. 1 Cor. 12. 27. Joh.</hi> 15. 2, 6. Neither do ſome Cha<g ref="char:EOLhyphen"/>racters of the Church forbid their being members of it, ſeeing they were undoubtedly ſuch, and theſe Elogiums are given to it, in reſpect of its better part, or what they may, ought or hopefully will be after<g ref="char:EOLhyphen"/>ward; as it is the Kingdom of Hea<g ref="char:EOLhyphen"/>ven, <hi>Mat.</hi> 25. 1, 2. yet ſome fooliſh Virgins there, and thoſe are golden Candleſticks, <hi>Rev.</hi> 1. 12, 13, 20. yet ſome droſſy and lukewarm not pure gold.</p>
+            <p>
+               <pb n="42" facs="tcp:34922:27"/>And further conſider, the viſible Church was founded on the Cove<g ref="char:EOLhyphen"/>nant made with <hi>Abraham,</hi> not only as conſiſting of <hi>Jews,</hi> but <hi>Gentiles</hi> in the Nations, Gen. 17. 4, 5. <hi>behold my Covenant is with thee, and thou ſhalt be a Father of many Nations;</hi> and that Covenant extended to Infants, <hi>v. 10, 11, 12, 13. and is ſtill continuing,</hi> Rom. 4. 17, 18. Gal. 3. 17. let any prove that Infants are cut out of it, elſe they are of his Eccleſiaſtical ſeed ſtill. It is true, Ceremonial obſervations of ve<g ref="char:EOLhyphen"/>ry antient date, and Ordinances of of the Law are abrogated, <hi>Heb.</hi> 9. and 10. but the Covenant with <hi>Abraham</hi> is another thing, and from the date of it ſo long before the Law, the A<g ref="char:EOLhyphen"/>poſtle proveth cannot be diſanulled by it, <hi>Gal.</hi> 3. 17. The ceaſing of Cir<g ref="char:EOLhyphen"/>cumciſion doth no more aboliſh the Covenant with <hi>Abraham</hi> or Infants Intereſt therein, then the aboliſhing of Sacrifices, Paſſover, and other Ce<g ref="char:EOLhyphen"/>remonial obſervations doth null the
+<pb n="43" facs="tcp:34922:27"/>
+Second Commandment, which du<g ref="char:EOLhyphen"/>ring their continuance, commanded a worſhipping God by them.</p>
+            <p>And alſo the Church before the Death of Chriſt, and after, are eſſen<g ref="char:EOLhyphen"/>tially the ſame, Eph. 2. 14, 15. <hi>Who hath made both one, and hath broken down the middle wall of partition be<g ref="char:EOLhyphen"/>tween us, having aboliſhed—the Law of Commandments</hi>—So then Jeſus Chriſt by his Death did not pull down one Church, and erect ano<g ref="char:EOLhyphen"/>ther, but equalized <hi>Jews</hi> and <hi>Gen<g ref="char:EOLhyphen"/>tiles,</hi> made both one; <hi>that the</hi> Gen<g ref="char:EOLhyphen"/>tiles <hi>ſhould be fellow heirs, and of the ſame body,</hi> Eph. 3. 6. Ordinances are altered in Worſhip, but the Church is in Eſſence the ſame.</p>
+            <p>And once more, the ſame Olive-tree, the Covenant with <hi>Abraham,</hi> and viſible Church, which the <hi>Jews</hi> were broken off from, for unbelief. <hi>Rom.</hi> 11. 20. the ſame the <hi>Gentiles</hi> were graffed into, <hi>v.</hi> 17. and the <hi>Jews</hi> ſhall again be graffed into that, as in<g ref="char:EOLhyphen"/>to
+<pb n="44" facs="tcp:34922:28"/>
+their own Olive-tree, <hi>v.</hi> 23, 24. and there could be no ſuch graffing into the ſame, if the ſtock the Covenant or Church were not the ſame. And hence <hi>Abraham</hi> hath an Eccleſiaſti<g ref="char:EOLhyphen"/>cal ſeed the viſible Church (for there is no breaking off from the inviſible Church) and Infants being of old members of it, they are ſo ſtill (elſe it were not the ſame) and ſo they are viſibly Chriſts and of <hi>Abrahams</hi> ſeed.</p>
+            <p>5. <hi>Some Infants are viſibly of the faith, and ſo are Abrahams ſeed:</hi> I do not ſay, that faith ſeminal and habi<g ref="char:EOLhyphen"/>tual or actual, is in all Infants Bapti<g ref="char:EOLhyphen"/>zed or others, for then either all of them muſt be ſaved, which they are not; or elſe they might looſe that ſpecial faith; but they are viſibly in<g ref="char:EOLhyphen"/>tereſted in the Covenant or promiſe, which is the word of faith and may bear that name; and the Lord being viſibly their God, <hi>Gen.</hi> 17. 7. 8. they are ſo under the promiſe of after faith and repentance, otherwiſe then
+<pb n="45" facs="tcp:34922:28"/>
+others are. If they have not faith for the preſent, yet viſibly they are un<g ref="char:EOLhyphen"/>der a promiſe of it, it is hopeful for the future they ſhall have it, which promiſe, Baptiſm may be a ſign and ſeal of; it may ſeal a doctrin of faith even where a principle of it is yet wanting, and by Baptiſm they are obliged to ſeek it.</p>
+            <p>Alſo by the faith of the Parents, they may be deemed of the faith with them, as all <hi>Jews (Infants and all)</hi> were the Circumciſion, for there are many promiſes given for the faith of ſuch Parents to act upon, which no unbelieving Parents can claim for their ſeed; as that he will Circumciſe the heart of their ſeed, <hi>Deut.</hi> 30. 6. pour his ſpirit on them, <hi>Iſ.</hi> 44. 3. that the word ſhall not de<g ref="char:EOLhyphen"/>part out of their mouth. <hi>If. 59. 21. ſee alſo</hi> Pſ. 25. 13. &amp; 112. 2. Prov. 11. 21. the contrary of the ſeed of the wicked, <hi>Pſ.</hi> 37. 28. but eſpecially that great and comprehenſive promiſe is
+<pb n="46" facs="tcp:34922:29"/>
+to believers, that he will be the God of their ſeed, <hi>Gen.</hi> 17. 7, 8. and theſe are fulfilled abſolutely to the Colle<g ref="char:EOLhyphen"/>ctive body the Church, though not te every individual, but under limi<g ref="char:EOLhyphen"/>tation. And Parents by rejecting the Covenant and Unbelief, may forfeit this priviledge for their ſeed as well as for themſelves, as the Infant ſeed of the <hi>Jews</hi> were broken off by their Parents unbelief, <hi>Rom.</hi> 11. 20. Elſe it muſt be ſaid that their ſeed re<g ref="char:EOLhyphen"/>mained in Covenant after in Goſpel times; and if Parents forfeit, there may not be an uninterrupted Suc<g ref="char:EOLhyphen"/>ceſſion of the Church in ſome of the poſterity of Believers, yet if the reje<g ref="char:EOLhyphen"/>cted ſeed do after perſonally believe, they obtain the promiſes for them<g ref="char:EOLhyphen"/>ſelves and ſeed again. <hi>Act.</hi> 2. 39.</p>
+            <p>In ſhort, <hi>Abraham</hi> was equally a Father of the <hi>Jews</hi> (called the Cir<g ref="char:EOLhyphen"/>cumciſion) by faith, as he was and is a Father of the <hi>Gentiles,</hi> the circum<g ref="char:EOLhyphen"/>ciſion by faith. <hi>Rom. 4. v.</hi> 10, 11, 12.
+<pb n="47" facs="tcp:34922:29"/>
+there is no difference of his common fatherhood to both it is by faith; ſo that the <hi>Jews</hi> were as much <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> ſeed of faith, even when they were the circumciſion as the <hi>Gen<g ref="char:EOLhyphen"/>tiles</hi> are, and ſo the <hi>Jews</hi> Infant ſeed, were <hi>Abrahams</hi> ſeed of faith, exter<g ref="char:EOLhyphen"/>nally when circumciſed of old, and as well then may the Infant ſeed of believing <hi>Gentiles,</hi> be <hi>Abrahams</hi> ſeed of faith now; and the rather becauſe he received circumciſion, as <hi>a Seal of the righteouſneſs of that faith, which he had being uncircumciſed v. 11. that he might be a father to believing</hi> Gen<g ref="char:EOLhyphen"/>tiles. And obſerve, that the Cove<g ref="char:EOLhyphen"/>nant was made with him, and he circumciſed as a viſible Believer, cir<g ref="char:EOLhyphen"/>cumciſion was a Seal of the righte<g ref="char:EOLhyphen"/>ouſneſs of faith, which is common to all Believers among <hi>Jews</hi> and <hi>Gen<g ref="char:EOLhyphen"/>tiles,</hi> not peculiar to him.</p>
+            <p>Alſo he received Circumciſion, not meerly by vertue of a command or inſtitution, but as a token of the
+<pb n="48" facs="tcp:34922:30"/>
+Covenant. <hi>Gen.</hi> 17. 9, 10, 11. So as the Covenant could not be kept after circumciſion was Inſtituted without it, <hi>v.</hi> 14. whilſt it continued; nor without Baptiſm now a token of the ſame Covenant, and connected with the promiſe, <hi>Act.</hi> 2. 38, 39. in like manner, and ſo Infants being in Co<g ref="char:EOLhyphen"/>venant, as <hi>Abrahams</hi> ſeed of faith are to be Baptized.</p>
+            <p>Obj. 3. <hi>There is no kind of Cove<g ref="char:EOLhyphen"/>nant holineſs in the natural ſeed of Be<g ref="char:EOLhyphen"/>lievers, more than in the ſeed of Un<g ref="char:EOLhyphen"/>believers now under the Goſpel; for no perſon is to be accounted common or unclean by nature more than others, and ſo no perſon to be accounted clean or holy by nature more than others.</hi> Act. 10. 28. <hi>God is no reſpecter of perſons—Typical Ceremonial holineſs is aboliſhed of the ſeed as well as of Beaſts, Birds, Garments, Temple,</hi> &amp;c.</p>
+            <p>A. <hi>The Typical ceremonial holineſs aboliſhed, is not ſaid to be by Nature.</hi> Act. 10. 28. <hi>it was by the Law;</hi> ſuch as
+<pb n="49" facs="tcp:34922:30"/>
+of Birds, Beaſts, Garments, Temple, <hi>&amp;c.</hi> and this is at an end, nothing now unclean or holy in that ſenſe; but that is nothing againſt the rela<g ref="char:EOLhyphen"/>tive federal holineſs of perſons long before the Law, by the Covenant with <hi>Abraham</hi> viſibly having God their God, and being his People. <hi>Gen.</hi> 17. 7, 8. otherwiſe then other People, being ſeparated to the Ser<g ref="char:EOLhyphen"/>vice of God, and not afar off but nigh to him. <hi>Ezek. 16. 8, 9. Eph.</hi> 2, 3, 14, 19. and this is not meerly by nature, but as in the force of Gods Covenant. <hi>Galat.</hi> 2. 15.</p>
+            <p>As to <hi>Act.</hi> 10. 28. It declares that no perſon is <hi>common or unclean</hi> ſo as to bar him from the Preaching of the Goſpel; the <hi>Gentiles</hi> are as clean and holy now as the <hi>Jews</hi> in that re<g ref="char:EOLhyphen"/>ſpect; <hi>Peter</hi> might go in to <hi>Corneli<g ref="char:EOLhyphen"/>us,</hi> no difference of Nation or out<g ref="char:EOLhyphen"/>ward ſtate or condition to hinder it (<hi>Col.</hi> 2. 11.) all on equal terms, and alike; the means of grace may be
+<pb n="50" facs="tcp:34922:31"/>
+extended to the <hi>Gentiles;</hi> the offer is larger then it was; not ſtraiter here is no excluding or caſting out of Infants from any priviledge.</p>
+            <p>Indeed the <hi>Jews</hi> of old were for<g ref="char:EOLhyphen"/>bidden Marriage and Covenants with the <hi>Gentiles, Deut.</hi> 7. 3. but not keeping company with them, as <hi>Calvin</hi> ſaith, we find no clear prohi<g ref="char:EOLhyphen"/>bition of the <hi>Jews</hi> going in to the <hi>Gentiles</hi> from the Law, but from the obſervation of the Fathers; Howe<g ref="char:EOLhyphen"/>ver, there can be no pretence for ſuch uncleanneſs of Perſons, as <hi>Peter</hi> meaneth till the Law, and the abo<g ref="char:EOLhyphen"/>liſhing this by the Goſpel, is nothing againſt the federal holineſs of Infants or others, long before the Law by the Covenant with <hi>Abraham.</hi>
+            </p>
+            <p>As to <hi>Act.</hi> 10. 34, 35. it importeth that God is <hi>no reſpecter of perſons, as to acceptance with him;</hi> be he <hi>Jew</hi> or <hi>Gentile</hi> of what Nation ſoever, he may be accepted of God, if he be a fearer of God, and a worker of right<g ref="char:EOLhyphen"/>eouſneſs
+<pb n="51" facs="tcp:34922:31"/>
+elſe not, whatever privilege he enjoyeth, Church-memberſhip, Baptiſm, Lords Supper, <hi>&amp;c.</hi> what is this againſt the federal holineſs of their ſeed, who are fearers of God and externally in Covenant with him?</p>
+            <p>2. <hi>In Goſpel times there is a relative federal holineſs, whereby ſome are dif<g ref="char:EOLhyphen"/>ferenced from other by a Separation from the world for God,</hi> Rom. 11. 16. 1 Pet. 2. 9. <hi>ye are a holy Nation,</hi> yea this reacheth Infants. 1 Cor. 7. 14. <hi>Elſe were your Children unholy, but now are they holy.</hi>
+            </p>
+            <p>It cannot be meant of legitima<g ref="char:EOLhyphen"/>tion, for if both the Parents be unbe<g ref="char:EOLhyphen"/>lievers, yet the Children are legiti<g ref="char:EOLhyphen"/>mate. <hi>Heb. 13. 4. the marriage bed is undefiled in all.</hi> It is not barely a being ſanctified to uſe, for ſo are the unbelieving Husband or Wife to the Believer. <hi>v.</hi> 14. yet are not holy. <hi>Tit.</hi> 1. 15.</p>
+            <p>It is not qualitative holineſs, if it
+<pb n="52" facs="tcp:34922:32"/>
+were to be ſure they may be Bapti<g ref="char:EOLhyphen"/>zed; it muſt then be relative or fe<g ref="char:EOLhyphen"/>deral holineſs.</p>
+            <p>Obj. 4. <hi>If the Children of the fleſh are not the Children of God,</hi> Rom. 9. 8. <hi>then Infants are not the ſeed of</hi> Abra<g ref="char:EOLhyphen"/>ham, <hi>they may be by Election, not by Calling.</hi> Abraham <hi>hath two ſeeds, a fleſhly ſeed, who had promiſes of the Land of</hi> Canaan; <hi>and a ſpiritual ſeed Heirs of eternal Life, the Heavenly In<g ref="char:EOLhyphen"/>heritance, this was never given to the fleſhly ſeed.</hi>
+            </p>
+            <p>Anſ. <hi>Children of the fleſh by dege<g ref="char:EOLhyphen"/>neracy and a legal Birth, are not the Children of God:</hi> Of theſe he ſpeak<g ref="char:EOLhyphen"/>eth, <hi>Rom. 9. v. 8, 31, 32. Gal. 4. v.</hi> 29, 30. This is nothing againſt Infants Priviledge.</p>
+            <p>Alſo Children of the fleſh, Infants or adult, are not internally and ſa<g ref="char:EOLhyphen"/>vingly the Children of God, ſo as to inherit the Heavenly Inheritance only by fleſhly deſcent; but Infants of Believers are externally and viſi<g ref="char:EOLhyphen"/>bly
+<pb n="53" facs="tcp:34922:32"/>
+the Children of God as well as others, <hi>Gen. 17. 7, 10, 11. Exod. 4. 22. Rom.</hi> 9. 4. To them pertaineth the Adoption, and ſo they are exter<g ref="char:EOLhyphen"/>nally and viſibly Children, if not by regeneration, yet by dedication and ſeparation for God from others. This rendreth it probable and hopeful they ſhall afterwards ſhare in the ſpi<g ref="char:EOLhyphen"/>ritual and eternal Bleſſings, until they evidence the contrary by re<g ref="char:EOLhyphen"/>jecting the Covenant, as <hi>Iſhmael</hi> and <hi>Eſau</hi> did.</p>
+            <p>Thus the Infant ſeed of Believers are not the ſpiritual ſeed of <hi>Abraham</hi> only by fleſhly deſcent, but they are eccleſiaſtically and externally the ſeed of <hi>Abraham,</hi> with their Parents, by vertue of the Covenant.</p>
+            <p>But to clear this Text and Matter, I ſhall add theſe things.</p>
+            <p>1. <hi>Here is no repeal of any Cove<g ref="char:EOLhyphen"/>nant Intereſt, which Infants undoubt<g ref="char:EOLhyphen"/>edly had before the coming of Jeſus Chriſt;</hi> without which, all ſaid is no<g ref="char:EOLhyphen"/>thing<g ref="char:punc">▪</g>
+               <pb n="54" facs="tcp:34922:33"/>
+to the purpoſe: it is not ſaid, thoſe that of old were the ſeed of <hi>A<g ref="char:EOLhyphen"/>braham,</hi> now are not ſo any longer; but rather the contrary, for (till a<g ref="char:EOLhyphen"/>ctually caſt out) he concludeth them highly priviledged, <hi>Rom. 9. 4. Who are</hi> Iſraelites <hi>to whom pertaineth the Adoption and the Glory of [the Cove<g ref="char:EOLhyphen"/>nants]—and the Promiſes.</hi> So that ſtill in Goſpel times, till caſt out for poſitive Unbelief, externally they had an Intreſt in the Covenants and Promiſes, as in former days, and ſo their Infants ſhared with them.</p>
+            <p>2. <hi>The Children of the Fleſh, which here are denyed to be the Children of God, are an adult, corrupt, degenerate ſeed, ſeeking Juſtification by a Legal Righteouſneſs.</hi> Rom. 9. v. 8, 31, 32. Iſrael <hi>which followed after Righteouſ<g ref="char:EOLhyphen"/>neſs, hath not attained to the Law of Righteouſneſs. Wherefore? becauſe they ſought it not by Faith, but as it were by the Works of the Law.</hi> Such are a fleſh<g ref="char:EOLhyphen"/>ly ſeed, <hi>Gal.</hi> 4. 29. and obſtinately
+<pb n="55" facs="tcp:34922:33"/>
+erring in ſuch a Fundamental in mat<g ref="char:EOLhyphen"/>ter of Faith, in any Age, were not the Children of God; they are adult ones that thus advance their own Righte<g ref="char:EOLhyphen"/>ouſneſs, Infants do not ſo, and there<g ref="char:EOLhyphen"/>fore are not the Children of the fleſh here intended.</p>
+            <p>Indeed the Parents may ſo forfeit their Covenant Intereſt, and conſe<g ref="char:EOLhyphen"/>quently, their Infant ſeed may looſe it alſo, becauſe their Right was by their Parents.</p>
+            <p>3. <hi>The Children of the Fleſh, whether adult, or Infants, are not the Children of God ſpiritually, or are not the ſpiritual ſeed of</hi> Abraham <hi>only by a fleſhly deſcent, ſo as to be Heirs of Salvation, Eternal Life, the Heavenly Inheritance; but yet may be the ſeed of</hi> Abraham <hi>eccleſiaſti<g ref="char:EOLhyphen"/>cally and externally, as of old, and nothing is here againſt it.</hi>
+            </p>
+            <p>Mr. <hi>Strong</hi> doth well diſtinguiſh <hi>A<g ref="char:EOLhyphen"/>braham</hi> as a Father; he is 1. a natural Father to the <hi>Jews</hi> only. 2. a ſpiritual Father to all true Believers. 3. an ec<g ref="char:EOLhyphen"/>cleſiaſtical, or church Father, <hi>Rom.</hi> 11.
+<pb n="56" facs="tcp:34922:34"/>
+16, 17. anſwerably he hath a natural fleſhly ſeed, a ſpiritual ſeed, and an ec<g ref="char:EOLhyphen"/>cleſiaſtical ſeed. <hi>Paul</hi> ardently deſired, that <hi>Iſrael</hi> might be ſaved, <hi>Rom.</hi> 10. 1. and <hi>Rom. 9. v.</hi> 3. mentioneth Election, calling Salvation <hi>v.</hi> 11, 24, 27. and in theſe reſpects it might be ſaid in all a<g ref="char:EOLhyphen"/>ges of the Old Teſtament, the Children of the fleſh are not the Children of God, as to Vocation and Salvation, when yet Infants were unqueſtionably external<g ref="char:EOLhyphen"/>ly in Covenant, and ſo then they may be ſtill, and all this that is ſaid is not a<g ref="char:EOLhyphen"/>gainſt it. They may be a ſeed as to Or<g ref="char:EOLhyphen"/>dinances, though all of them be not ſo as to Life and Salvation.</p>
+            <p>The ſame may be ſaid of Goſpel Churches, all are not <hi>Iſrael</hi> that are of <hi>Iſrael</hi>—there being fooliſh Virgins there as well as wiſe, <hi>Mat.</hi> 25. 1, 2. how then can this prove, an alteration of the Covenant, or that the Infant ſeed is now excluded, ſeeing the ſame might have been truly ſaid in all times?</p>
+            <p>4. <hi>That many of the fleſhly ſeed of</hi> A<g ref="char:EOLhyphen"/>braham <hi>might be rejected, and yet the
+<pb n="57" facs="tcp:34922:34"/>
+word or promiſe of God not be made void;</hi> the Apoſtle here and <hi>Rom.</hi> 11. is aſſert<g ref="char:EOLhyphen"/>ing the rejection of the <hi>Jews,</hi> and now obviateth their objection, <hi>Rom. 9. v. 6. [Not as though the word of God hath tak<g ref="char:EOLhyphen"/>en none effect</hi>] i. e. Not that God doth violate his promiſe of being a God to <hi>Abraham</hi> and his ſeed, for all are not true <hi>Iſraelites</hi> nor of the ſeed of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> who are his fleſhly ſeed, <hi>v.</hi> 6, 7. on<g ref="char:EOLhyphen"/>ly that did not render them the Chil<g ref="char:EOLhyphen"/>dren of God, and entitle them to the promiſes <hi>v.</hi> 8. this he proveth, becauſe <hi>Iſhmael,</hi> who was of <hi>Abrahams</hi> fleſhly ſeed of old was caſt our, and where there was no diſparity or unlikeneſs in birth or works, yet <hi>Jacob</hi> was loved, and <hi>Eſau</hi> hated, <hi>v.</hi> 8. to 14. neither doth this preferring one before the other, where there was equality in themſelves, ſpeak any unrighteouſneſs with God, <hi>v.</hi> 14. for his own will is the determining rule of his ſhewing mercy, <hi>v.</hi> 15. to <hi>v.</hi> 24. This is the clear and true meaning of this Scripture, theſe inſtances ſhew that being the Children of the fleſh of
+<pb n="58" facs="tcp:34922:35"/>
+old, did not make them the Children of God, as to his love—when yet unde<g ref="char:EOLhyphen"/>niably the Infant ſeed were externally within the Covenant, how then can this ſpeak now for the excluding of them? when the ſame might be ſaid in all ages ſince <hi>Abraham, viz.</hi> that the Children of the fleſh, are not the Chil<g ref="char:EOLhyphen"/>dren of God ſo as to obtain ſpiritual Bleſſings, but may be rejected, when they bear upon that plea of fleſhly deſ<g ref="char:EOLhyphen"/>cent, and yet highly degenerate as the <hi>Jews</hi> did. It proveth no alteration of the Covenant in reſpect of its antient ex<g ref="char:EOLhyphen"/>tent as to the ſeed. What is ſaid, is in<g ref="char:EOLhyphen"/>tended againſt an adult corrupt ſeed, making a carnal plea or claim, not a<g ref="char:EOLhyphen"/>gainſt an Infant ſeed. The ſame might be ſaid now to a Church under a like degeneracy, and making ſuch a carnal plea, even where there is an owning In<g ref="char:EOLhyphen"/>fants Covenant Intereſt and Baptiſm. The Queſtion here was not whither an Infant ſeed were ſtill in Covenant as they were of old? but whither the pro<g ref="char:EOLhyphen"/>miſe was void and of none effect (<hi>v.</hi> 6.)
+<pb n="59" facs="tcp:34922:35"/>
+if a corrupt adult fleſhly ſeed were re<g ref="char:EOLhyphen"/>jected?</p>
+            <p>5. <hi>The fleſhly Children of</hi> Abraham, <hi>were not the Children of God excluſively, or in oppoſition to a Spiritual ſeed, even of</hi> Gentiles <hi>by faith;</hi> the <hi>Jews</hi> often cryed out, we are the ſeed of <hi>Abraham,</hi> claim<g ref="char:EOLhyphen"/>ing Intereſt in the Covenant, and in<g ref="char:EOLhyphen"/>groſſing all promiſes and ſpecial bleſ<g ref="char:EOLhyphen"/>ſings, only by being his fleſhly ſeed, hereby excluding the <hi>Gentiles,</hi> unleſs joyned with them turning to the <hi>Jew<g ref="char:EOLhyphen"/>iſh</hi> Religion; on the contrary the Apo<g ref="char:EOLhyphen"/>ſtle declareth, that there is <hi>a ſpiritual ſeed,</hi> even of the <hi>Gentiles</hi> by faith, and that hereby they obtain ſpiritual bleſ<g ref="char:EOLhyphen"/>ſings before the <hi>Jews Rom.</hi> 9, 8, 30, 31, 32 who are denyed to be that ſpiritual ſeed (though they were the fle<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y ſeed of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>) being without faith and not doing the works of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Rom. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 10. 11. Gal. 3.</hi>
+            </p>
+            <p>What is this againſt thoſe, who pre<g ref="char:EOLhyphen"/>tend not to be <hi>Abrahams</hi> carnal fleſhly ſeed, nor to be actually intereſted in ſpecial bleſſings by fleſhly deſcent, nor
+<pb n="60" facs="tcp:34922:36"/>
+truſt in carnal priviledges? What is this for the excluding Infants out of a Covenant ſtate<g ref="char:punc">▪</g> an the reſult of that promiſe to <hi>Abraham</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I will he the God of thy ſeed <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Gen.</hi> 17. 7, 8. for many 100 years an Infant ſeed had a Covenant Intereſt joyntly with their Parents, and this was no Typical promiſe, let any prove that Infants are cut off from their ſhare in it, elſe their Covenant In<g ref="char:EOLhyphen"/>tereſt muſt hold ſtill, whither Baptiſm may be applyed, or not without an ex<g ref="char:EOLhyphen"/>preſs Command of which before.</p>
+            <p>
+               <hi>Abraham</hi> had a ſpiritual ſeed all along by faith, whoſe Infants were in Cove<g ref="char:EOLhyphen"/>nant with their Parents for many gene<g ref="char:EOLhyphen"/>rations, and why ſhould not their pri<g ref="char:EOLhyphen"/>viledge continue ſtill to the ſpiritual ſeed, though the carnal fleſhly ſeed were caſt out, and their priviledge ex<g ref="char:EOLhyphen"/>pired with it.</p>
+            <p>Infants Covenant Intereſt was not the peculiar priviledge of the fleſhly ſeed of <hi>Abraham;</hi> for the Infant ſeed of Proſelites and thoſe ſtrangers, <hi>Gen. 17. 12, 13. Ex. 12. 48.</hi> were in the Co<g ref="char:EOLhyphen"/>venant
+<pb n="61" facs="tcp:34922:36"/>
+made with <hi>Abraham</hi> and under the token of it, ſo as that Covenant was broken if that was omitted, yet they were not of the fleſhly ſeed of <hi>A<g ref="char:EOLhyphen"/>braham,</hi> and ſo theſe may be in ſtill, though his fleſhly ſeed be caſt out.</p>
+            <p>And once more, if all the <hi>Jews</hi> at the firſt dawning of the Goſpel day, had be<g ref="char:EOLhyphen"/>come the ſpiritual ſeed of <hi>Abraham</hi> by faith (as many of them did) none of them then had been rejected; for it was for unbelief, that they were bro<g ref="char:EOLhyphen"/>ken off, <hi>Rom.</hi> 11. 20. and what ſyllable is there to prove, that there would have been an excluſion of their Infant ſeed, from that Covenant Intereſt weh they had the day before their Parents believing. And hence it followeth.</p>
+            <p>6. <hi>That the expiring and ceaſing of ſome carnal priviledges of old, afforded to the fleſhly ſeed of</hi> Abraham, <hi>hindreth not the Covenant Intereſt of the Infants of the ſpiritual ſeed by faith;</hi> if the ſe<g ref="char:EOLhyphen"/>paration of the fleſhly ſeed of <hi>Abraham,</hi> to the bringing forth of the <hi>Meſſiah</hi> ceaſed and expired at his coming, that
+<pb n="62" facs="tcp:34922:37"/>
+was but one priviledge of the <hi>Jews,</hi> that <hi>of them as concerning the fleſh Chriſt came,</hi> Rom. 9. 5. and yet Covenant In<g ref="char:EOLhyphen"/>tereſt continued ſtill [<hi>to them pertaineth the—Covenant, and the promiſes] v.</hi> 4. Act. 3. 25.</p>
+            <p>If the aforeſaid ſeparation and the priviledge thereby, as Dr. <hi>O.</hi> ſaith was temporary having a limited ſeaſon time and end, and upon his actual exhibition in the fleſh it was to ceaſe, and if ſome carnal ordinances failed and be at an end, being abundantly ſupplyed by his being come; yet what is all this to prove, that God no longer is viſibly a God to the Infant ſeed of the Spiritual ſeed of <hi>Abraham?</hi> that is not tempora<g ref="char:EOLhyphen"/>ry, but by an everlaſting Covenant, and faileth not.</p>
+            <p>Infants Covenant Intereſt is no branch of thoſe priviledges which he ſaith are expired; but on the contrary Dr. <hi>O.</hi> mentioneth this as one promiſe to the Church [<hi>that God will be a God to them and their ſeed for ever.] Exercit.</hi> 6. on <hi>Heb.</hi> Neither doth this make three par<g ref="char:EOLhyphen"/>ties
+<pb n="63" facs="tcp:34922:37"/>
+in the Covenant [Abraham <hi>and his ſeed, and their Infant ſeed</hi>] any more than it did before the coming of Chriſt, when Parents and their Infants made one joynt Subject all along, as <hi>Iſaac</hi> and his Children, and <hi>Jacob</hi> and his, and thoſe Circumciſed, <hi>Joſh.</hi> 5. and theirs.</p>
+            <p>The <hi>Jews</hi> ungroundedly claimed all promiſes, by their being the fleſhly ſeed of <hi>Abraham,</hi> but the ſpiritual ſeed may duly claim that promiſe for their Chil<g ref="char:EOLhyphen"/>dren, there being nothing for the nul<g ref="char:EOLhyphen"/>ling of it.</p>
+            <p>Beſides, Dr. <hi>O.</hi> once and again there declareth, <hi>that the Church is one and the ſame, not one Church taken away and ano<g ref="char:EOLhyphen"/>ther ſet up in the room, the Olive-tree is the ſame, only ſome branches are broken off,</hi> &amp;c.</p>
+            <p>Infants were of the Church, ſhew when they were all caſt out; the ſame that the <hi>Jews</hi> were broken off from the <hi>Gentiles</hi> were graffed into, <hi>Rom.</hi> 11.</p>
+            <p>Let any prove that the Church-ſtate in the Subſtance of it, was any part of that which was aboliſhed by the death of Chriſt.</p>
+            <p>
+               <pb n="64" facs="tcp:34922:38"/>They were <hi>added to the Church,</hi> Act. 2. 47. i. e. to the Church under its new adminiſtration. By breaking down the partition wall, the former confinement of the Church to the Natural ſeed of <hi>Abraham</hi> was taken off, and it hath en<g ref="char:EOLhyphen"/>largement by the acceſs of the <hi>Gentiles,</hi> but is not ſtraitned by excluding ſo vaſt a number as all the Infant ſeed. The de<g ref="char:EOLhyphen"/>generate, obſtinate, unbelieving <hi>Jews</hi> were broken off for the reformation of the Church, but it was not diſmembred by cutting off all the Infant ſeed, who had actually done neither good nor e<g ref="char:EOLhyphen"/>vil, nor had their Parents rejected the Covenant. Some ordinances of worſhip expired, and new were appointed as D. <hi>O.</hi> well obſerveth, but I cannot find that God caſt out any who formerly were members of it (as Infants were) without a forfeiture of their privilege.</p>
+            <p>Obj. 5. <hi>Infants are not capable of en<g ref="char:EOLhyphen"/>tring Covenant with God, and if they were abſolutely in it, then God did not perform his promiſe, becauſe many prove wicked; and if only conditionally then it is no more
+<pb n="65" facs="tcp:34922:38"/>
+to them then others, and what advantage by it?</hi>
+            </p>
+            <p>A. 1. <hi>Infants were of old in Covenant, and ſo are capable,</hi> Gen. 17. v. 10, 11, 12. Deut. 29. v. 10, 11, 12. <hi>ye ſtand this day all of you—your little ones—that thou ſhouldſt enter into Covenant with the Lord thy God</hi>—So then little ones are in a ca<g ref="char:EOLhyphen"/>pacity to be engaged by Covenant for the Lord.</p>
+            <p>I may ask were they abſolutely in it or conditionally?</p>
+            <p>2. <hi>Some anſwer, the Infant ſeed of Be<g ref="char:EOLhyphen"/>lievers are in Covenant abſolutely in the Species, conditionally in the individuals Cobbet.</hi>
+            </p>
+            <p>Many promiſes run to a Collective body, as the Church, and are accom<g ref="char:EOLhyphen"/>pliſhed there, and yet may not be made good to every member particularly; as it is promiſed, that <hi>the gates of hell</hi> ſhall not prevail againſt the Church, <hi>Mat.</hi> 16. 18. and yet <hi>Satan</hi> may prevail againſt particular Members or Churches.</p>
+            <p>So the Covenant of not drowning the World, doth not ſecure every par<g ref="char:EOLhyphen"/>ticular Man from drowning.</p>
+            <p>
+               <pb n="66" facs="tcp:34922:39"/>3. <hi>As to advantages, there are many, as a Covenant-ſtate is a ſtate of greater near<g ref="char:EOLhyphen"/>neſs unto God then others are in;</hi> is de<g ref="char:EOLhyphen"/>clared to be a priviledge, <hi>Rom.</hi> 3. 1, 2. and 9, 4. and it is a miſery to be ſtrangers from the Covenants of promiſe, <hi>Eph.</hi> 2. 12. many advantages I could diſco<g ref="char:EOLhyphen"/>ver of being externally in Covenant, and thus Men may be in it and may ſo miſcarry, as to be rejected, as <hi>Iſhmael, Eſau,</hi> the <hi>Jews, Rom.</hi> 11. and yet God not break Covenant againſt Infants Baptiſm, it is objected thus.</p>
+            <p>
+               <hi>Obj. 6. Faith and Repentance are re<g ref="char:EOLhyphen"/>quired before Baptiſm,</hi> Mark 16. 16. <hi>He that believeth and is baptized, ſhall be ſa<g ref="char:EOLhyphen"/>ved,</hi> Act. 2. 38. <hi>Repent and be baptized.</hi>—<hi>If the</hi> Jews, <hi>the natural ſeed of</hi> Abra<g ref="char:EOLhyphen"/>ham, <hi>might not be baptized without Faith and Repentance, much leſs others. And ſuch affirmative Precepts have their ne<g ref="char:EOLhyphen"/>gative; and ſo Infants not believing or repenting, may not be baptized.</hi>
+            </p>
+            <p>Anſ. 1. <hi>I freely grant, that thoſe which believe and repent are to be bapti<g ref="char:EOLhyphen"/>zed; but I deny the conſequence, that
+<pb n="67" facs="tcp:34922:39"/>
+therefore Infants may not be baptized.</hi>
+            </p>
+            <p>Such Texts conclude affirmatively, that ſuch may; they do not conclude negatively, that none elſe may: as for example, it is ſaid, <hi>Act. 8. 37. If thou believeſt with all thy heart, thou mayeſt,</hi> i. e. be baptized. This doth not con<g ref="char:EOLhyphen"/>clude negatively, that none elſe may; if any will ſay hence, none may be bap<g ref="char:EOLhyphen"/>tized who do not believe with all their heart, then they can baptize none; for they cannot know that another doth believe with all his heart; and <hi>Simon Magus,</hi> who did not ſo, yet was duely baptized, <hi>Act.</hi> 8. 13.</p>
+            <p>If it could be proved that it is in<g ref="char:EOLhyphen"/>tended excluſively, then</p>
+            <p>2. <hi>It importeth, that none but thoſe who believe and repent of adult ones, may be baptized, it is not to be underſtood in oppoſition to Infants:</hi> often affirmative Commands intend only capable Sub<g ref="char:EOLhyphen"/>jects; and the negative part extendeth no further. Thus, as believing and re<g ref="char:EOLhyphen"/>penting are commanded before Bap<g ref="char:EOLhyphen"/>tiſm, ſo confeſſion with the mouth is
+<pb n="68" facs="tcp:34922:40"/>
+commanded before Salvation, <hi>Rom. 10. v. 9. 10. If thou ſhalt confeſs with thy mouth the Lord Jeſus—thou ſhalt be ſa<g ref="char:EOLhyphen"/>ved; and with the mouth Confeſſion is made unto Salvation.</hi> Will any hence deny that any Infants can be ſaved, be<g ref="char:EOLhyphen"/>cauſe they do not confeſs with their mouth the Lord Jeſus? It is meant of adult ones only, who are capable ſub<g ref="char:EOLhyphen"/>jects. So labour, by a general term, is commanded before eating, 2 <hi>Theſ. 3. 10. We command you, that if any would not work, neither ſhould he eat.</hi> Will any conclude thence, that Infants ſhall not eat, becauſe they will not labour? So ſome commands about eating the Paſſo<g ref="char:EOLhyphen"/>ver, as with ſower herbs—are intend<g ref="char:EOLhyphen"/>ed only for capable ſubjects, not ſick Perſons or Infants. That of preaching the Goſpel to every creature, <hi>Mark.</hi> 16. 15, 16. is meant not to Infants, but o<g ref="char:EOLhyphen"/>thers. So as to Baptiſm, the command to <hi>believe and repent</hi> before it, concern<g ref="char:EOLhyphen"/>eth capable ſubjects only; and the ne<g ref="char:EOLhyphen"/>gative part only ſaith, that adult Be<g ref="char:EOLhyphen"/>lievers and impenitent ones may not
+<pb n="69" facs="tcp:34922:40"/>
+be baptized, it concludeth nothing a<g ref="char:EOLhyphen"/>gainſt Infant Baptiſm.</p>
+            <p>That new Inſtitution of Baptiſm was firſtly to be received by the adult, be<g ref="char:EOLhyphen"/>ing given to a Church where many ſuch are found, and ſo it was proper to preach to them, <hi>believe, repent, and be baptized;</hi> and thus, we going to <hi>Turks, Indians,</hi> or others, where Baptiſm hath not come, we may preach in the ſame language, <hi>believe, repent, and be bapti<g ref="char:EOLhyphen"/>zed,</hi> without excluding Infants from it: Yea, of old the Proſelites and Stran<g ref="char:EOLhyphen"/>gers muſt own the <hi>Jewiſh</hi> Religion, make a profeſſion of Faith and Love, as <hi>Iſa. 56. v.</hi> 3. to 8. <hi>Exod.</hi> 12. and then had Circumciſion for themſelves and their Infant ſeed.</p>
+            <p>3. <hi>Faith and Repentance were then ne<g ref="char:EOLhyphen"/>ceſſary even for the</hi> Jews, <hi>the natural ſeed of</hi> Abraham, <hi>that they who were Pa<g ref="char:EOLhyphen"/>rents may have right themſelves unto Bapiſm and other Goſpel Priviledges, and ſo their Infant ſeed may have right alſo:</hi> For as in other ages of the Church, when the Lord gave forth new Reve<g ref="char:EOLhyphen"/>lations
+<pb n="70" facs="tcp:34922:41"/>
+and Ordinances for the Taber<g ref="char:EOLhyphen"/>nacle and Temple, he required the re<g ref="char:EOLhyphen"/>ceiving of them by Faith and Obedi<g ref="char:EOLhyphen"/>ence, elſe they were to be cut off, <hi>Lev. 7<g ref="char:punc">▪</g> v.</hi> 20, 21, 25, 27. and 17. 4, 9. and 19. 8<g ref="char:punc">▪</g> and 23. <hi>v.</hi> 27, 29. And after great Apo<g ref="char:EOLhyphen"/>ſtacies and Backſlidings, they were ſe<g ref="char:EOLhyphen"/>verely threatned, if they repented not<g ref="char:punc">▪</g> So at the dawning of the Goſpel day, Jeſus Chriſt the promiſed Seed being actually come, this made a great addi<g ref="char:EOLhyphen"/>tion to that important Article of Faith; now all were obliged under the high<g ref="char:EOLhyphen"/>eſt penalty to the Faith of this, that the Meſſiah was come, that <hi>Jeſus Chriſt</hi> was the Son of God, <hi>Joh. 8. 24. If ye be<g ref="char:EOLhyphen"/>lieve not that I am he, ye ſhall die in your ſins.</hi> This was the Teſt in thoſe times<g ref="char:punc">▪</g> and for Unbelief the <hi>Jews,</hi> the natural ſeed of <hi>Abraham,</hi> were broken off, <hi>Rom.</hi> 11. 20. On this account was the com<g ref="char:EOLhyphen"/>mand in that day to them, [<hi>Believe<g ref="char:punc">▪</g> and be baptized</hi>] for by perſiſting in poſitive, obſtinate unbelief, as to his be<g ref="char:EOLhyphen"/>ing come, there was a rejection of the Covenant, and loſing their own right<g ref="char:punc">▪</g>
+               <pb n="71" facs="tcp:34922:41"/>
+and ſo their Childrens right, which re<g ref="char:EOLhyphen"/>ſulted from theirs muſt needs be loſt alſo. If Parents be caſt out of Covenant, then I plead not for their or their In<g ref="char:EOLhyphen"/>fants Baptiſm. That faith then was in<g ref="char:EOLhyphen"/>diſpenſibly neceſſary to the continuing their Covenant Intereſt, as well as to their Baptiſm, yea if circumciſion on the <hi>8th</hi> day had continued to this day, yet this faith of his being come, would have been neceſſary thenceforth in the Parents, in order to their Childrens ſharing in it. But where the natural ſeed of <hi>Abraham</hi> by ſuch faith, laid hold on the Covenant and continued their In<g ref="char:EOLhyphen"/>tereſt in it, here is nothing to prove a<g ref="char:EOLhyphen"/>ny alteration or curtailing of the Cove<g ref="char:EOLhyphen"/>nant, ſo as to cut off their Infant ſeed from it, or to exclude them from Bap<g ref="char:EOLhyphen"/>tiſm.</p>
+            <p>Alſo the natural ſeed of <hi>Abraham</hi> had then exceedingly corrupted them<g ref="char:EOLhyphen"/>ſelves, and hainouſly ſinned; even ſo as to Crucifie Chriſt the Prince of Life, on which account he commandeth to Repent and be Baptized, <hi>Act. 2. v.</hi> 36. 38.
+<pb n="72" facs="tcp:34922:42"/>
+When they were under ſuch tranſgreſ<g ref="char:EOLhyphen"/>ſions, well might they be exhorted to repentance in order to Baptiſm, and to prevent their forfeiting all and utter rejection, and the Lords ſaying to them <hi>Loami,</hi> ye are none of my People. Cer<g ref="char:EOLhyphen"/>tainly a Church which owneth Infant Baptiſm<g ref="char:punc">▪</g> having members under ſuch a horrid offence, may require a manife<g ref="char:EOLhyphen"/>ſtation of repentance from the Parents before they do Baptize their Infants.</p>
+            <p>In ſhort I have diſcovered, that In<g ref="char:EOLhyphen"/>fant Baptiſm followeth Parents Faith; and Repentance is pre-required to Bap<g ref="char:EOLhyphen"/>tiſm of a degenerate adult ſeed, but this is nothing againſt Baptizing Infants of a ſpiritual ſeed by faith.</p>
+            <p>§. 3. <hi>Of the validity of Baptiſm in In<g ref="char:EOLhyphen"/>fancy.</hi>
+            </p>
+            <p>Some ſpeak contemptuouſly of the Baptizing of Infants and undertake to Rebaptize, but</p>
+            <p>Poſ. <hi>Baptiſm adminiſtred in Infancy is valid, is no nullity.</hi>
+            </p>
+            <p>I have proved there is Scripture war<g ref="char:EOLhyphen"/>rant for Infant Baptiſm, ſome Infants
+<pb n="73" facs="tcp:34922:42"/>
+are the proper Subjects of it, and ſo its no nullity.</p>
+            <p>Arg. 1. <hi>Our Baptiſm in Infancy hath all the Eſſentials of Goſpel water Baptiſm, therefore it is valid is no nullity.</hi>
+            </p>
+            <p>For, if a ſin in Circumſtantials and accidentals of an ordinance did null it, then none were valid; no perſon is ſo Baptized, but ſome ſin in it would ren<g ref="char:EOLhyphen"/>der it a nullity; ſeeing there is <hi>not a juſt man upon Earth that doth good and ſinneth not,</hi> Eccleſ. 7. 20. 1 Joh. 1. 8. and the contrary is clear, <hi>Zippora</hi> circumciſed when <hi>Moſes</hi> ſhould have done it, <hi>Ex.</hi> 4. 25. and yet it was valid for the Angel of the Lord was pacified, <hi>v.</hi> 26. So the high prieſts were not of the right line but yearly, yet Chriſt owneth them, <hi>Joh.</hi> 11. 51. and 18, 13. and I ask if a perſon erreth in his pro<g ref="char:EOLhyphen"/>feſſion of faith, and yet they Baptize him, if he after be profane, will they ſay it is a nullity? will they if he repent Baptize him again!</p>
+            <p>Now our Baptiſm in Infancy hath all Eſſentials of water Baptiſm, for it hath
+<pb n="74" facs="tcp:34922:43"/>
+right matter and form; here is <hi>right matter, ex qua conſtat,</hi> viz. Water with<g ref="char:EOLhyphen"/>out undue mixture, here is the ſign, and the thing ſignified by it is evangelical; alſo the right matter <hi>circaquam,</hi> capable Subjects rational creatures, none elſe can be in Covenant, nor in a capacity to have the things ſignified, the graces and benefits of the Covenant. That Infants have right to it, I have evidenced, that they are capable is undeniable, as they were of circumciſion, which had a ſpi<g ref="char:EOLhyphen"/>ritual ſignification as well as Baptiſm, what hinders their receptivity? Infants are capable of a principle of faith and repentance, antecedently and of actual believing and repenting conſequently, and one end which Baptiſm obligeth to is after repentance, <hi>Mat. 3. 11. Act.</hi> 19. 34. Alſo it hath the <hi>right form,</hi> an application of water in a ſolemn ſigni<g ref="char:EOLhyphen"/>ficative way, <hi>in the name of the Father, Son, and Holy Spirit.</hi> Mat. 28. 19. we uſe waſhing tho not ſubmerſion; it is ſuch an applying of water, that is the ſub<g ref="char:EOLhyphen"/>ſtance of the external form of Baptiſm,
+<pb n="75" facs="tcp:34922:43"/>
+and if there were a ſinful defect (which I think there is not) in the want of ſub merſion, yet it can be but an accidental one, and ſo it can never be proved that it renders it a nullity. In Infant Baptiſm there is the <hi>Internal form,</hi> conſiſting in the relation of the ſign and thing ſigni<g ref="char:EOLhyphen"/>fied, and the External form the apply<g ref="char:EOLhyphen"/>ing water in a ſolemn way with the words of Inſtitution <hi>in the name of the Father</hi>—which muſt needs be more of the ſubſtance of the ordinance then ſub<g ref="char:EOLhyphen"/>merſion can be, and it is a principal part the face, which is is applyed to for the noting profeſſion, as the fathers n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me in the forehead, <hi>Rev. 14. v.</hi> 1, and ſo it is valid.</p>
+            <p>Arg. 2. <hi>Our Baptiſm in Infancy an<g ref="char:EOLhyphen"/>ſwereth to the Scripture ſignification of the word, and to what is ſignified by that Ordinance, therefore it is valid and is no nullity.</hi> The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is rendred <hi>mergo, lavo,</hi> it noteth a ſmall uſe of wa<g ref="char:EOLhyphen"/>ter, as <hi>Luk.</hi> 16. 24. that he may [dip] &amp; it is not the whole finger, but only the tip of it. Alſo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>mergo, lavo,</hi> it ſig<g ref="char:EOLhyphen"/>nifieth
+<pb n="76" facs="tcp:34922:44"/>
+not neceſſarily to dip or plunge, but as well to waſh, and this both in common and in ſacred uſe, it cannot be confined to ſubmerſion or overwhelm<g ref="char:EOLhyphen"/>ing in the water, and ſo ſuch dipping cannot be eſſential to Baptiſm, ſo as the not uſing it ſhould render it a nullity. ſee <hi>Mar. 7. 4. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> except they waſh, they eat not.</hi> Will any ſay, except they plunged their whole bodies under water they eat not, ſurely no, but only waſhed their hands, as <hi>v.</hi> 3. yet they, the perſons by that ſmall application of wa<g ref="char:EOLhyphen"/>ter are ſaid to Baptize or waſh, and <hi>v. 8. Luk.</hi> 11. 38. ſo in a ſacred ſenſe. 1 <hi>Cor. 10. 2. and were all Baptized unto</hi> Moſes <hi>in the Cloud and in the Sea.</hi>
+            </p>
+            <p>Who will ſay they were dipped in the cloud, or their whole bodies plunged in the Sea? but the cloud did ſprinkle or pour water upon them.</p>
+            <p>So our pouring water on the face of an Infant in ſuch a manner, is truly Waſhing or Baptizing of it. And ſeeing dipping or plunging is not preſcribed by the Lord, only waſhing, yea if it were
+<pb n="77" facs="tcp:34922:44"/>
+ſo as it were a ſin to omit it, yet for any to lay ſo great a ſtreſs upon that moda<g ref="char:EOLhyphen"/>lity, placing ſo much Religion in it as if all were hull without it, I fear cannot be excuſed from Superſtition, which is ungroundedly charged upon others.</p>
+            <p>We anſwer, the Scripture ſignifica<g ref="char:EOLhyphen"/>tion of the word Baptize, and Conſcien<g ref="char:EOLhyphen"/>tiouſly think that Chriſt hath left us to a liberty, as to that mode, hath not ob<g ref="char:EOLhyphen"/>liged us to ſubmerſion, becauſe whate<g ref="char:EOLhyphen"/>ver might be done in hot Climates, yet in cold Countries ſuch a uſage would make the ſervice of the Goſpel worſe, then that of the Law, againſt <hi>Mat.</hi> 11. 28. it would without a Miracle hazard life; whereas God will have mercy ra<g ref="char:EOLhyphen"/>ther than Sacrifice, let us not then be cenſured for the omiſſion of it.</p>
+            <p>Yea further, the thing ſignified is an<g ref="char:EOLhyphen"/>ſwered by our Baptiſm in Infancy, be it a ſign of regeneration, or of being bu<g ref="char:EOLhyphen"/>ried with Chriſt, <hi>Rom. 6. 4. Col.</hi> 2. 12. or both; for, either noteth Communion with Chriſt in his Death, and that is expreſſed even by ſprinkling, <hi>ye are
+<pb n="78" facs="tcp:34922:45"/>
+come to the blood of ſprinkling,</hi> Heb. 10. 24. &amp; Heb. 10. 22. ſprinkling noteth the thing ſignified by Baptiſm, and ſo may expreſs Baptiſm the ſign; but we uſe waſhing by pouring water upon, and that is expreſſive in both, Eph. 5. 25, 26. Rev. 1. 5. <hi>hath waſhed from our ſins in his blood,</hi> Tit. 3. 5. no neceſſity that Baptiſm ſhould reſemble his death or burial in every thing, not in his being carried in<g ref="char:EOLhyphen"/>to the Sepulchre, and being there till the third day, they would not willingly be ſo long under water; our being bu<g ref="char:EOLhyphen"/>ried with him in Baptiſm is a metapho<g ref="char:EOLhyphen"/>rical expreſſion, noting Communion ſharing in his death, which aptly is ex<g ref="char:EOLhyphen"/>preſſed by waſhing.</p>
+            <p>Obj. 1. <hi>But the firſt pure way of Bap<g ref="char:EOLhyphen"/>tizing was by dipping, they went into and came out of the water,</hi> Mark. 1. 9. Mat. 3. 15, 16. Act. 8. 38. 39. <hi>and</hi> John <hi>Baptized in</hi> Arnon <hi>becauſe there was much water there,</hi> Joh. 3. 23.</p>
+            <p>A. 1. <hi>If this was the mode or uſage in thoſe hot Climates, then it is lawful there, but it doth not follow that it is neceſſary in
+<pb n="79" facs="tcp:34922:45"/>
+cold Climates, much leſs ſo as it were a nullity without it.</hi>
+            </p>
+            <p>2. <hi>Some uſages in the firſt adminiſtra<g ref="char:EOLhyphen"/>tion of ordinances, being extra-eſſential to them may lawfully be omitted afterwards in ſome caſes:</hi> circumſtances much al<g ref="char:EOLhyphen"/>ter caſes; as the Paſſover muſt be brought the tenth day, and kept till the 14th, and the blood of it muſt be ſtruck on the door poſts in <hi>Egypt,</hi> and be eaten in haſt, with loyns girded <hi>&amp;c. Ex.</hi> 12. but all theſe things were not duty af<g ref="char:EOLhyphen"/>terward, let it be proved that they were uſed by Chriſt and the Apoſtles. Bap<g ref="char:EOLhyphen"/>tiſm was applyed to Chriſt at above 30 years of age, to the Jaylor at midnight. <hi>Act.</hi> 16. 33. So the Lords Supper was at firſt adminiſtred only to Men, to the A<g ref="char:EOLhyphen"/>poſtles in an upper room at night; yet all theſe things are not neceſſary duties for our imitation, ſo as a variation is ſinful.</p>
+            <p>3. <hi>The words do not neceſſarily note any more, than that they went to or unto and came from the water;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is often rendred not [into] but [to or unto] as
+<pb n="80" facs="tcp:34922:46"/>
+Mat. 15. 24. <hi>I am not ſent, but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to or un<g ref="char:EOLhyphen"/>to the loſt ſheep, ſo</hi> Act. 16. 40. Rom. 15. 16. And <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifieth [from] <hi>as</hi> Mat. 1. 17.—<hi>from</hi> Abraham—Mat. 7. 23. <hi>de<g ref="char:EOLhyphen"/>part <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> from me ye workers of Iniquity, and</hi> 9. 15. Mark. 14. 2. Mat. 27. 45.</p>
+            <p>Thus [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>Act.</hi> 8. 39. is rendred as well from as out of, Mark. 6. 14. [<hi>from] the dead,</hi> Mat. 19. 20. [<hi>from] my youth, not out of my youth.</hi>
+            </p>
+            <p>And thus theſe Texts neceſſarily im<g ref="char:EOLhyphen"/>port only, that they went to or unto &amp; from the water, and however they might go into and come out of the wa<g ref="char:EOLhyphen"/>ter without dowzing or plunging their whole bodies into the water; and its ſaid as much of <hi>Philip</hi> as of the Eunuch, he went into and came out of the wa<g ref="char:EOLhyphen"/>ter, <hi>Act.</hi> 8. 38, 39. and will any ſay, that he which Baptizeth muſt always plunge himſelf into the water?</p>
+            <p>4. <hi>None of theſe Texts ſpeak a word, that the Baptizing was in the form of Sub<g ref="char:EOLhyphen"/>merſton, Dipping, or Plunging;</hi> it might be only by pouring water on them by waſhing, for ought is ſaid here.</p>
+            <p>
+               <pb n="81" facs="tcp:34922:46"/>
+               <hi>As to</hi> Joh. 3. 23. the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>many waters</hi> may note, that there were many rivelets here and there where he came, which were not uſual in thoſe parts; and however <hi>John</hi> having ma<g ref="char:EOLhyphen"/>ny hundreds perhaps thouſands to Bap<g ref="char:EOLhyphen"/>tize, in thoſe hot Countries where he might go many miles for a little water, to ſhew the conveniency of that place above others, it might well be ſaid, he Baptized in <hi>Arnon,</hi> becauſe there was much water there, and I am informed, that <hi>Arnon</hi> is ſo ſhallow a water, that no perſon can be overwhelmed in it.</p>
+            <p>And now what remaineth, that can pretend to invalidate Baptiſm in In<g ref="char:EOLhyphen"/>fancy? if it be ſaid, their not being pro<g ref="char:EOLhyphen"/>feſſed Believers, or their wanting faith.</p>
+            <p>I add, that God his declaring Infants viſible Covenant Intereſt, is as good an Evidence of their right to Baptiſm, as the viſible profeſſion of faith can be. And if the want of faith would render the Baptiſm a nullity; then ſuch as ap<g ref="char:EOLhyphen"/>pear to be but formal profeſſors, they looſe their Baptiſm, and if they become
+<pb n="82" facs="tcp:34922:47"/>
+real Believers afterwards, they muſt be Baptized again.</p>
+            <p>If they object againſt the Admini<g ref="char:EOLhyphen"/>ſtrator; it falleth heavy upon them<g ref="char:EOLhyphen"/>ſelves; for according to their own principles, how is it poſſible for them to find a regular Adminiſtrator! If In<g ref="char:EOLhyphen"/>fant Baptiſm be a nullity; and Baptiſm be that, which conſtituteth a Goſpel Church or any perſon a member there<g ref="char:EOLhyphen"/>of, as they affirm; then their own Bap<g ref="char:EOLhyphen"/>tiſm is a nullity, unleſs they can prove a lineal ſucceſſion from <hi>John</hi> Baptiſt or the Apoſtles, or that he which began their Rebaptizing work had an imme<g ref="char:EOLhyphen"/>diate call, as <hi>John</hi> Baptiſt and the Apo<g ref="char:EOLhyphen"/>ſtles had. For he that firſt began this Baptizing work in their way, had no other Baptiſm but that in Infancy; if that were null, then was he an unbap<g ref="char:EOLhyphen"/>tized perſon and no Church member, neither could he make himſelf a Church member, wanting that which ſhould conſtitute him, ſo <hi>viz.</hi> Baptiſm. I ask what Scripture is there expreſs or by conſequence for an unbaptized per<g ref="char:EOLhyphen"/>ſon
+<pb n="83" facs="tcp:34922:47"/>
+(and no Church member) to Bap<g ref="char:EOLhyphen"/>tize himſelf or others without an im<g ref="char:EOLhyphen"/>mediate call? without that (all Bap<g ref="char:EOLhyphen"/>tiſm and Church-memberſhip) in their way is unattainable, impoſſible to be attained, and ſo the principles have a tendency to deſtroy both Baptiſm and Churches.</p>
+            <p>I ſhall from the premiſes, add two Corolaries.</p>
+            <p>1. <hi>That to Baptize again thoſe that being Children of Believers were Bapti<g ref="char:EOLhyphen"/>zed in Infancy is a great ſin, ſeeing Bap<g ref="char:EOLhyphen"/>tiſm in Infancy is valid;</hi> there is no Scripture warrant for Rebaptizing any with water, and ſo it is a taking the name of the Lord in vain. As to <hi>Act.</hi> 19. 3, 5. To ſay they were Baptized in the name of Chriſt, therefore they were Rebaptized with water, is a plain <hi>non ſequitur.</hi> If this were a ſecond Baptiſm it was with the Holy Ghoſt and with fire, <hi>v. 6.—the Holy Ghoſt came on them.</hi> Or one of them may be figurative, and note the owning of the doctrin, as <hi>Mat. 21. 25. Act.</hi> 18. 25.</p>
+            <p>
+               <pb n="84" facs="tcp:34922:48"/>2. <hi>That to admit as members, and ſo Baptize again ſuch who are known owned members of a rightly conſtituted Church, without its knowledge or conſent is highly irregular;</hi> it is without Scripture war<g ref="char:EOLhyphen"/>rant, it obſtructeth and diſableth for thoſe mutual duties, which the mem<g ref="char:EOLhyphen"/>berſhip in the firſt Church required at theirhands; there are various duties omitted, which are charged in the Church where they are members, <hi>Rev.</hi> 7. and 3. it breaketh the peace by divi<g ref="char:EOLhyphen"/>ſion; it violateth all Goſpel order.</p>
+            <p>Neither will it be a <hi>Salvo</hi> to ſay, that Churches are not rightly conſtituted for want of their Baptiſm; this is ener<g ref="char:EOLhyphen"/>vated already, by proving the validity of Infant Baptiſm. And it is built upon a great miſtake, <hi>viz. That Baptiſm doth conſtitute a Church, and make one a Mem<g ref="char:EOLhyphen"/>ber of it.</hi> Whereas it is not true, for at the firſt Inſtitution of Baptiſm, <hi>John</hi> the <hi>Baptiſt</hi> adminiſtred it to multitudes who were Members of the <hi>Jewiſh</hi> Church before, and ſo were not made Church Members by it, the ſame
+<pb n="85" facs="tcp:34922:48"/>
+Church which Jeſus Chriſt was a Mem<g ref="char:EOLhyphen"/>ber of, and Baptized in, and ſo of a Goſ<g ref="char:EOLhyphen"/>pel ſtamp. The Baptiſm of <hi>John</hi> was Eſſentially the ſame with ours, being that which Jeſus Chriſt (the head of Baptized ones) paſſed under, yet what Church was Chriſt made a member of thereby? If that did conſtitute, then one member may be a Church, for where the form is, there is the thing formed, yea an excommunicate perſon an Apoſtate, one that renounceth the Goſpel and all Churches, yet his Bap<g ref="char:EOLhyphen"/>tiſm remaining he muſt ſtill be a Church member, for where the form is, there is the <hi>formatum;</hi> and if ſuch had loſt their Baptiſm, then if ever they be reduced they muſt be Rebapti<g ref="char:EOLhyphen"/>zed; whereas Patient one of the Bap<g ref="char:EOLhyphen"/>tiſts ſaith the <hi>Ordinance of Baptiſm is to be received but once, as a Man is to be regenerated but once, born but once, changed from death to life but once.</hi> To conclude, where Churches are of a Goſpel conſtitution (which muſt be by other means then Baptiſm) it is ſinful
+<pb n="86" facs="tcp:34922:49"/>
+to withdraw members from them un<g ref="char:EOLhyphen"/>der pretence of bringing them under Baptiſm; therefore <hi>follow after things which make for p<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce,</hi> Rom. 14. 19. <hi>and as</hi> 1 Cor. 10. 32. <hi>Give none offence, neither to the</hi> Jews, <hi>nor to the</hi> Gentiles, <hi>nor to the Church of God.</hi>
+            </p>
+         </div>
+         <div type="appendix">
+            <pb facs="tcp:34922:49"/>
+            <head>AN APPENDIX.</head>
+            <p>HAving Evidenced the Covenant Intereſt, not only of Believers, but of their Infant ſeed, I may add two other Inferences thence.</p>
+            <p>Inf. 1. <hi>Then it is of great concern<g ref="char:EOLhyphen"/>ment to own the high priviledge and glo<g ref="char:EOLhyphen"/>rious advantage of Believers and their ſeed above all others in their Covenant Intereſt.</hi>
+            </p>
+            <p>Some would deny this external Co<g ref="char:EOLhyphen"/>venant Intereſt to be a priviledge, di<g ref="char:EOLhyphen"/>rectly againſt Rom. 3. 1, 2. <hi>What ad<g ref="char:EOLhyphen"/>vantage then hath the</hi> Jew? <hi>or what profit is there of Circumciſion? much e<g ref="char:EOLhyphen"/>very way.</hi>
+            </p>
+            <p>It is then a high advantage, altho internal ſpecial priviledges be wanted, or be not actually enjoyed, as Juſtifi<g ref="char:EOLhyphen"/>cation, <hi>&amp;c.</hi> for in that reſpect he ex<g ref="char:EOLhyphen"/>preſly declereth the <hi>Jew</hi> was not bet<g ref="char:EOLhyphen"/>ter, <hi>v. 9<g ref="char:punc">▪</g> 22. all are under ſin, and there
+<pb n="88" facs="tcp:34922:50"/>
+is no difference.</hi> There is unſpeakable condeſcention in it, that God will ad<g ref="char:EOLhyphen"/>mit any of his creatures into Covenant with himſelf, when he might have dealt only in a way of Prerogative and Soveraignty with them.</p>
+            <p>There are many priviledges and ad<g ref="char:EOLhyphen"/>vantages of being even externally and viſibly in Covenant with God, as</p>
+            <p>1. <hi>The Covenant-ſtate it ſelf is agreat priviledge, above what others enjoy:</hi> for, it is a great miſery (<hi>Eph.</hi> 2. 32.) to be ſtrangers to the Covenants of promiſe. Being in Covenant, ſpeaketh ſome nearneſs to God when others are at a diſtance afar off, <hi>v.</hi> 13. argueth relation to him, <hi>Ex.</hi> 4. 21. and having the King<g ref="char:EOLhyphen"/>dom of God nigh, <hi>Luk.</hi> 10. 9, 11. and 11. 20. in Ordinances and influences from the fatneſs of the Olive. <hi>Rom.</hi> 11. 17. 24.</p>
+            <p>2. <hi>Various Divine Promiſes believing Parents may act faith upon the Lord in for their ſeed above others:</hi> Gen. 17. 7. 8. Iſ. 44. 3. Iſ. 59. 21.—whereas the ſeed of the wicked are under threatnings, Pſ. 37. 28.</p>
+            <p>
+               <pb n="89" facs="tcp:34922:50"/>If it be ſaid, how doth God keep Covenant<g ref="char:punc">▪</g> then, ſeeing many of the ſeed of Believers prove wicked?</p>
+            <p>This is anſwered before; <hi>Abraham</hi> had an <hi>Iſhmael,</hi> and <hi>Iſaac</hi> an <hi>Eſau</hi>—who were viſibly in Covenant and un<g ref="char:EOLhyphen"/>der the token of it, yet God kept Co<g ref="char:EOLhyphen"/>venant; but the Lord rejecteth<g ref="char:punc">▪</g> none till they caſt themſelves out of Cove<g ref="char:EOLhyphen"/>nant, as <hi>Iſhmael</hi> did and others may do, who are only externally in it, thus the <hi>Jews</hi> were externally in Covenant, as their priviledge, Rom. 9. 4. <hi>to them per<g ref="char:EOLhyphen"/>taineth—the Covenants,</hi> and many of them were bad and broken off, <hi>Rom.</hi> 11. 20. yet God kept his Covenant; ſo if ſome of the ſeed of Believers be wick<g ref="char:EOLhyphen"/>ed, yet God may keep Covenant.</p>
+            <p>And from theſe promiſes, Believers have a higher encouragement than o<g ref="char:EOLhyphen"/>thers can have, to hope that their ſeed ſhall afterwards ſhare in Spiritual and Eternal Bleſſings, tho they be not re<g ref="char:EOLhyphen"/>generated and ſanctified for the preſent. As <hi>Monicha</hi> the Mother of that famous <hi>Auſtin,</hi> mourning for his ſinful courſes,
+<pb n="90" facs="tcp:34922:51"/>
+[be of good cheer (ſaid a Miniſter) for it cannot be that a Child of ſo many Prayers and Tears ſhould periſh.]</p>
+            <p>Alſo they may be ſecured and deli<g ref="char:EOLhyphen"/>vered from many evils and temporal judgments, which others lie open to; God remembreth his Covenant for his, <hi>Ex. 3. 6, 7. Lev.</hi> 26. 41, 42. they are ſealed. <hi>Rev.</hi> 7. 2<g ref="char:punc">▪</g> 3. from hurt which others are expoſed to.</p>
+            <p>Inf. 2. <hi>Then the Govenant Intereſt of Believers and their ſeed, lay Parents and Children under powerful obligations to Duty and Caution.</hi>
+            </p>
+            <p>Indeed every priviledge is improv<g ref="char:EOLhyphen"/>able towards Duty eſpecially ſuch as this.</p>
+            <div type="part">
+               <head>As to Parents.</head>
+               <p>1. <hi>Beware of degenerating or forfeit<g ref="char:EOLhyphen"/>ing your Intereſt in the Covenant:</hi> for, you forfeit not only for your ſelves but for your ſeed alſo, their right reſulting from yours. Thus not only the <hi>Jews</hi> were broken off, but their poſterity by their unbelief; and the ſin of Parents often hath dreadful conſequences to
+<pb n="91" facs="tcp:34922:51"/>
+their ſeed; ſaith the Lord, Iſ. 14. 21. <hi>prepare ſlaughter for their Children for the iniquity of their Fathers.</hi> Often a keeping the Covenant or Commands is required, as Deut. 4. 40. <hi>and 12. 25. 28. that it may go well with their Chil<g ref="char:EOLhyphen"/>dren after them.</hi>
+               </p>
+               <p>2. <hi>Be much in giving inſtruction and Counſel in the matters of the Covenant to your Children;</hi> leave not your poſte<g ref="char:EOLhyphen"/>rity ignorant thereof, Deut. 6. 6. 7. <hi>theſe words which I command and thee—thou ſhalt teach them diligently unto thy Children,</hi> Deut. 11. 19. <hi>and</hi> 32. 46. Eph. 6. 4.</p>
+               <p>3. <hi>Be much acting faith upon the Lord in the Covenant, and pleading that with him in Prayer for your ſeed;</hi> ſeeing he hath ſaid he would be a God to them as well as to your ſelves. Thus <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> having a promiſe for his ſeed, he acteth faith and poureth out his Soul to God, <hi>Gen.</hi> 17. 18. even for <hi>Iſhmael,</hi> al<g ref="char:EOLhyphen"/>tho but externally in Covenant with him, and it was with good ſucceſs, <hi>v. 20. and as for</hi> Iſhmael, <hi>I have heard thee</hi>—</p>
+               <p>
+                  <pb n="92" facs="tcp:34922:52"/>4. <hi>Be in a Submiſſion to the will of God in the diſtinction, which he maketh in the diſtribution of Covenant bleſſings;</hi> the Lord vouchſafeth to one, what he will not grant to another, Gen. 17. 19. <hi>My Covenant will I eſtabliſh with</hi> Iſaac. i. e. in the ſpecial bleſſings of it, not with <hi>Iſhmael.</hi> And afterward, when he was mocking, he was rejected, <hi>Gen.</hi> 21. 9. 12. yet God is quieting <hi>Abraham</hi> there; <hi>let it not be grievous in thy ſight.</hi>
+               </p>
+               <p>This is difficult work for Parents to acquieſce and ſit down without mur<g ref="char:EOLhyphen"/>muring complaints, when the Lord re<g ref="char:EOLhyphen"/>jecteth ſome of their ſeed, who ſin, whilſt he communicateth his grace to others.</p>
+               <p>5. <hi>Be good preſidents and examples to your ſeed that are in Covenant;</hi> they are apt to follow your courſe, walk and converſation; and be good Copies or Patterns to them, for imitation in keeping the Covenant.</p>
+               <p>6. <hi>Lay your ſeed as much as poſſible under engagements for owning the Cove<g ref="char:EOLhyphen"/>nant: Eli</hi> a good Man reproved his
+<pb n="93" facs="tcp:34922:52"/>
+Children, 1 <hi>Sam.</hi> 2. 24<g ref="char:punc">▪</g> yet not doing his utmoſt to reſtrain them from ſin, his houſe is ſeverely threatned, 1 <hi>Sam. 3. 13. 14. I will judge his houſe for ever.</hi>
+               </p>
+               <p>If Parents do not what they can to reſtrain their Children from ſin it is greatly diſpleaſing unto God.</p>
+               <p>And God highly commendeth Co<g ref="char:EOLhyphen"/>venanting <hi>Abraham,</hi> for commanding his Children and his Houſhold after him, <hi>to keep the way of the Lord,</hi> Gen. 18. 19. he would have us by Counſel conſtrain Children unto duty, as a way to mercy.</p>
+            </div>
+            <div type="part">
+               <head>As to Children who are growing up.</head>
+               <p>1. <hi>Beware of truſting in your privi<g ref="char:EOLhyphen"/>ledge, or in being externally in Covenant,</hi> neither Children nor adult ones, are to take up their reſt in any outward priviledge, Mat. 3. 9. <hi>ſay not we have</hi> Abraham <hi>to our Father</hi>—</p>
+               <p>2. <hi>Beware of a rejection of the Cove<g ref="char:EOLhyphen"/>nant, as</hi> Iſhmael <hi>did, leaſt the Lord reject you as he did him;</hi> although your firſt Covenant Intereſt is by your Parents,
+<pb n="94" facs="tcp:34922:53"/>
+know this will not always laſt, your ſtanding there afterwards, muſt be in your own right by taking hold of the Covenant.</p>
+               <p>It is indeed a difficult queſtion. <hi>How long are the Infant ſeed intereſted in the Covenant, upon the account of their Pa<g ref="char:EOLhyphen"/>rents faith?</hi>
+               </p>
+               <p>I think it is, <hi>till either the Parent or the ſeed do reject or caſt themſelves out of the Covenant; Iſhmael</hi> was circumci<g ref="char:EOLhyphen"/>ſed on his Fathers account, when Thir<g ref="char:EOLhyphen"/>teen years old, <hi>Gen.</hi> 17. 25. but a certain number of years cannot be aſſigned as the determining rule for all, how long they are in Covenant upon the account of their Parents. There may be a dif<g ref="char:EOLhyphen"/>ference herein as to years.</p>
+               <p>If early you reject the Covenant, you may early be caſt out, or when you are very young. And the Covenant may be rejected various ways, not only by rejecting of Jeſus Chriſt, through po<g ref="char:EOLhyphen"/>ſitive unbelief as the <hi>Jews</hi> did, <hi>Rom.</hi> 11. 20. but by acting contemptuouſly a<g ref="char:EOLhyphen"/>gainſt the matters of the Covenant, as
+<pb n="95" facs="tcp:34922:53"/>
+                  <hi>Iſhmael</hi> did mocking, <hi>Gen.</hi> 21. 9. how young ſoever, if you come to ſcoff or mock at Religion or matters of the Co<g ref="char:EOLhyphen"/>venant, eſpecially if you be deſcended of Religious Parents, you are in emi<g ref="char:EOLhyphen"/>nent danger of being caſt out. And ſo by preferring carnal ſenſual enjoy<g ref="char:EOLhyphen"/>ments before Spiritual Bleſſings, as <hi>Eſau</hi> did, who in diſtreſs ſold his birth<g ref="char:EOLhyphen"/>right for a trivial matter, even the gratifying a ſenſual appetite, <hi>Heb.</hi> 12, 16. as a profane perſon, he was reje<g ref="char:EOLhyphen"/>cted.</p>
+               <p>3. <hi>Set your Covenant Intereſt a<g ref="char:EOLhyphen"/>gainst all temptations to ſin;</hi> God hath impreſt ſomething of his name upon you, calling you holy; and then depart from Iniquity, 2 <hi>Tim.</hi> 2. 19. Do not act againſt the name of God and Jeſus Chriſt, which you are ſo<g ref="char:EOLhyphen"/>lemnly engaged for the owning of <hi>Mat.</hi> 28. 19.</p>
+               <p>You that are the Children of Be<g ref="char:EOLhyphen"/>lieving Parents if you live in ſin, know you ſin at a higher rate than others, becauſe againſt the Covenant that you
+<pb n="96" facs="tcp:34922:54"/>
+are under, as well as againſt your Re<g ref="char:EOLhyphen"/>ligious Education; your ſin admits of higher aggravations than others, for you <hi>forſake the God of your Fathers,</hi> 2 Chron. 7. 22. and 24. 24. to aggra<g ref="char:EOLhyphen"/>vate the evil of <hi>Nabals</hi> doings, it is ſaid 1 <hi>Sam. 25. 3. and he was of the houſe of</hi> Caleb. The excellency of the Forefather <hi>Caleb</hi> increaſed the Sin of <hi>Nabal,</hi> he being a degenerate Plant.</p>
+               <p>4. <hi>Improve your Intereſt in the Cove<g ref="char:EOLhyphen"/>nant towards ſeeking an Intereſt in Jeſus Chriſt, and the Saving Bleſſings of the Covenant:</hi> He urgeth attendance unto the voice of that Great Prophet Jeſus Chriſt, <hi>Act.</hi> 3. 22. And it is from their being <hi>the Children of the Covenant,</hi> v. 25. Do not content your ſelves with being externally in Covenant in Pa<g ref="char:EOLhyphen"/>rents Right, but ſeek a Perſonal In<g ref="char:EOLhyphen"/>tereſt in the ſpecial Bleſſings of the Covenant.</p>
+               <p>5. <hi>Make your Covenant Intreſt a Pro<g ref="char:EOLhyphen"/>vocation to Repantance;</hi> Act. 3. 19. <hi>Re<g ref="char:EOLhyphen"/>pent ye<g ref="char:punc">▪</g>—Why?</hi> v. 25. <hi>ye are the Chil<g ref="char:EOLhyphen"/>dren—of the Covenant,</hi>—Act. 2.
+<pb n="97" facs="tcp:34922:54"/>
+38, 39. <hi>Repent—Why? for the Promiſe is to you.</hi>
+               </p>
+               <p>6. <hi>Walk ſuitable to your Intereſt in the Covenant, in imitation of</hi> Abraham. When they pleaded they were the ſeed of <hi>Abraham,</hi> Chriſt reflecteth on them, becauſe they did not the Works of <hi>Abraham,</hi> Joh. 8. 39. <hi>O walk in the ſteps of the Faith of</hi> Abraham, <hi>Rom.</hi> 4. 12. Againſt Hope believe in Hope, that you may be bleſſed with Faithful <hi>Abraham.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:34922:55"/>
+            <head>A POSTSCRIPT.</head>
+            <p>TO prevent Miſtakes, know that page 3. runneth not upon my Principle, but is an Argument <hi>ad hominem;</hi> and the meaning is only this, that <hi>Infant Baptiſm</hi> is not expreſly forbidden, therefore either it is lawful, or elſe Scripture Conſequences muſt be admit<g ref="char:EOLhyphen"/>ted, which is undeniable.</p>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>IN the Preface, page 4. line 5. blot out <hi>that.</hi> In the Book, p. 4. l. 14. for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> r. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. p. 10. l. 5. for faederatiare r. <hi>faederati</hi> are. p. 24. l. 13. for myſtery r. <hi>miſery.</hi> p. 28. l. 12. r. <hi>Rom.</hi> 11. p. 34. l. 5. for yet r. <hi>yea.</hi> p. 38. l. 11. r. <hi>from being.</hi> l. 12. after limit for to r. <hi>and.</hi> p. 40. l. 16. for that r. <hi>the.</hi> p. 46. for te r. <hi>to.</hi> p. 69. l. 6. for are r. <hi>were.</hi> l. 22. 24. for may r. <hi>might.</hi> p. 78. l. 6. for in r. <hi>of.</hi> l. 22. for Arnon r. <hi>Aenon.</hi> ſo alſo p. 81. In the Catalogue, p. 1. l. 4. for Definitive r. <hi>Defenſive.</hi> p. 3. l. 21. for Sadbury r. <hi>Sudbury.</hi>
+            </p>
+         </div>
+         <div type="catlogue">
+            <pb facs="tcp:34922:55"/>
+            <head>A Catalogue of Books Printed for, and are to be Sold by <hi>Edward Giles,</hi> Bookſeller in <hi>Norwich,</hi> near the <hi>MAR<g ref="char:EOLhyphen"/>KET-PLACE.</hi>
+            </head>
+            <list>
+               <item>SEveral Diſcourſes concerning Actual Providence.</item>
+               <item>A Word in Seaſon.</item>
+               <item>Definitive Armour againſt four of <hi>Satan</hi>'s moſt fiery Darts.</item>
+               <item>Sermons upon the whole firſt and ſecond Chapter of the <hi>Canticles.</hi>
+               </item>
+               <item>Thirteen Sermons upon ſeveral uſe<g ref="char:EOLhyphen"/>ful Subjects, all Publiſhed by <hi>John Col<g ref="char:EOLhyphen"/>lins,</hi> D. D. of <hi>Norwich.</hi>
+               </item>
+               <item>The way of the Spirit in bringing Soul to Chriſt.</item>
+               <item>The Glory of Chriſt ſet forth, with the neceſſity of Faith, in ſeveral Ser<g ref="char:EOLhyphen"/>mons:
+<pb facs="tcp:34922:56"/>
+both by Mr. <hi>Thomas Allen,</hi> late Paſtor of a Church at <hi>Norwich.</hi>
+               </item>
+               <item>
+                  <hi>Enoch</hi>'s Walk with God and Chriſt, a Chriſtian's Gain: by Mr. <hi>Timothy Armitage,</hi> late Miniſter at <hi>Normich.</hi>
+               </item>
+               <item>A Diſcourſe of the preciouſneſs of Chriſt, and of the preciouſneſs of Faith.</item>
+               <item>Precious Promiſes the Portion of Overcomers.</item>
+               <item>Sermons on five ſeveral uſeful Sub<g ref="char:EOLhyphen"/>jects; all by Mr. <hi>John Longher,</hi> Miniſter in <hi>Norfolk.</hi>
+               </item>
+               <item>The Saints <hi>Ebenezer,</hi> by Mr. <hi>Fran<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s Engliſh,</hi> late Miniſter in <hi>Norwich.</hi>
+               </item>
+               <item>Directions to ſpell <hi>Engliſh</hi> right.</item>
+               <item>The Hiſtory of the <hi>Proteſtant Refor<g ref="char:EOLhyphen"/>mation,</hi> as it was begun by <hi>Luther.</hi>
+               </item>
+               <item>The Dead Saint ſpeaking, being a Sermon preached upon the Death of Mr. <hi>Newcomb</hi> of <hi>Dedham</hi> in <hi>Eſſex.</hi>
+               </item>
+               <item>The <hi>Engliſh Presbyterian.</hi>
+               </item>
+               <item>The Miracles of Chriſt.</item>
+               <item>The ordinary matter of Prayer, drawn into Queſtions and Anſwers.</item>
+               <item>Two Treatiſes, the firſt, Rejoycing in the Lord Jeſus in all Caſes and Con<g ref="char:EOLhyphen"/>ditions:
+<pb facs="tcp:34922:56"/>
+the ſecond, Of a Chriſtian's Hope in Heaven, and Freedom from Condemnation by Chriſt: both by Mr. <hi>Robert Aſty,</hi> late Miniſter of Jeſus Chriſt in <hi>Norwich.</hi>
+               </item>
+               <item>Obedience to Magiſtrates, recom<g ref="char:EOLhyphen"/>mended in a Sermon preached <hi>Septem<g ref="char:EOLhyphen"/>ber</hi> the <hi>9th.</hi> 1683<g ref="char:punc">▪</g> being the 'Thankſ<g ref="char:EOLhyphen"/>giving Day for his Majeſties Delive<g ref="char:EOLhyphen"/>rance: by <hi>Jonathan Clapham,</hi> Rector of <hi>Wramplingham</hi> in <hi>Norfolk.</hi>
+               </item>
+               <item>A Preſent for Youth, and an Exam<g ref="char:EOLhyphen"/>ple for the Aged; Two Diſcour<g ref="char:EOLhyphen"/>ſes, one of Spiritual Bleſſings; the other, That God hath an high ac<g ref="char:EOLhyphen"/>count of the leaſt Grace in the Saints: by Mr. <hi>John Cromwell,</hi> late Paſtor of a Church of Chriſt in <hi>Nor<g ref="char:EOLhyphen"/>wich.</hi>
+               </item>
+               <item>Infant Baptiſm of Chriſt's Appoint<g ref="char:EOLhyphen"/>ment: by Mr. <hi>Samuel Petto,</hi> Miniſter of the Goſpel in <hi>Sadbury</hi> in <hi>Suf<g ref="char:EOLhyphen"/>folk.</hi>
+               </item>
+               <item>Of the Converſion of Sinners to God in Chriſt, the neceſſity, nature, means, and ſigns of it, with a concluding
+<pb facs="tcp:34922:57"/>
+Speech to the Unconverted: by <hi>Martin Pinch,</hi> a Servant of Chriſt in the Work of the Goſpel, in the City of <hi>Norwich.</hi>
+               </item>
+               <item>Sincerity, or the upright Man's Walk to Heaven, delivered in ſeveral Sermons in the Pariſh Church of St. <hi>Michael,</hi> in <hi>Long-ſtratton,</hi> in <hi>Norfolk<g ref="char:punc">▪</g>
+                  </hi> by <hi>James Oldfield,</hi> late Miniſter there</item>
+            </list>
+            <trailer>The End of the Catalogue.</trailer>
+            <pb facs="tcp:34922:57"/>
+         </div>
+      </back>
+   </text>
+</TEI>
